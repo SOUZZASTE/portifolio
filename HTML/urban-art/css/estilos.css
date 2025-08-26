@@ -1,0 +1,312 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	margin: auto 0px;
+	background-color:#000;
+	background-image:url(../conteudo/imagens/fundo/fundo-cidade-de-sao-paulo-final.jpg);
+	background-attachment: fixed;
+	
+}
+a img{
+	border:none;
+}
+#container{
+	width:960px;
+	margin:auto;
+}
+
+#logo{
+	background-image:url(../conteudo/imagens/logo/logo-site.png);
+	margin:5px;
+	width:350px;
+	height:75px;
+	float:left;
+	margin-bottom:10px;
+
+}
+
+#contato{
+	background-color:rgba(0,0,0,.3);
+	float:right;
+}
+
+#contato ul li{
+	display: inline;
+	color: #FFF;
+	font-size: 16px;
+	text-align: center;
+	text-decoration: none;
+	font-weight: bold;
+	line-height: 10px;
+
+}
+
+#nav{
+	background-color:rgba(0,0,0,.3);
+	border-radius: 5px;
+	padding-bottom:10px;
+	clear:both;
+	height:50px;
+	border-bottom:#09C solid 10px;
+	text-align:center;
+
+}
+#nav ul{
+	margin:0;
+	padding:0;
+	list-style-type:none;
+}
+#nav ul li{
+	font-family: Rancho, Arial, Helvetica, sans-serif;
+	margin:10px;
+	font-size:55px;
+	text-shadow:#000 2px 2px 2px;
+	margin:10px;
+	display:inline;
+}
+#nav ul li a{
+	
+	text-decoration:none;
+	color: white;
+	font-size:24px;
+	text-align:center;
+	font-weight:bold;
+	line-height:50px;
+	display:inline-block;
+	width:124px;
+	-webkit-transition: .5s;
+	-moz-transition: .5s;
+	-o-transition: .5s;
+	-ms-transition: .5s;
+	transition: .5s;
+
+	
+}
+#nav ul li a:hover{
+	background-color:#09C;
+	
+}
+
+.ativo {
+	background-color:#09C;
+}
+
+#principal{
+	margin-top:10px;
+	background-color:#FFF;
+	width:960px;
+	height:600px;
+
+}
+
+#conteudo {
+	background-color:rgba(0,0,0,.6);
+	border-radius:10px 10px 10px;
+	padding: 20px;
+	margin-top: 30px;
+	width: 960px;
+	height:auto;
+	min-height:500px;
+	display:inline-table;
+}
+
+
+#linha01, #linha02 , #linha03  {
+	height:250px;	
+}
+
+
+#coll1, #coll2, #coll3, #coll4, #coll5, #coll6, #coll7, #coll8{
+	margin-top:10px;
+	width:286px;
+	height:400px;
+	float:left;
+	margin-left:10px;
+	margin-bottom:50px;
+	padding:5px;
+	border: solid #999 2px;
+}
+
+
+#coll1:hover, #coll2:hover, #coll3:hover, #coll4:hover, #coll5:hover, #coll6:hover, #coll7:hover, #coll8:hover{
+	border-color:#FF9;
+}
+
+
+#form-contato{
+	padding:15px;
+	width: 520px;
+	margin:auto;		
+}
+.rotulos{
+	font-family:  Helvetic,Arial, sans-serif;
+	font-weight:bold;
+	font-size:18px;
+	color:#09C;
+	text-shadow:#000 1px 1px;
+}
+
+.campos{
+	width: 500px;
+	border:none;
+	box-shadow: #999 2px 2px 5px;
+	line-height: 30px;
+	border-radius: 5px;
+	padding: 5px;
+	background-image:url(../conteudo/imagens/contato/fundo06.jpg);
+	font-family:Tahoma, Geneva, sans-serif;
+	font-weight:bold;
+	text-transform:uppercase;
+		
+}
+.botao{
+	background: #d6f9ff; /* Old browsers */
+	background: -moz-linear-gradient(top,  	#d6f9ff 0%, #9ee8fa 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#d6f9ff), 		color-stop(100%,#9ee8fa)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #d6f9ff 0%,#9ee8fa 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #d6f9ff 0%,#9ee8fa 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #d6f9ff 0%,#9ee8fa 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #d6f9ff 0%,#9ee8fa 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d6f9ff', endColorstr='#9ee8fa',GradientType=0 ); /* IE6-9 */
+	height: 35px;
+	color: black;
+	font-weight:bold;
+	border-radius: 5px;
+	box-shadow: #000 2px 2px 2px;
+}
+#conteudo h3{
+	padding-top:10px;
+	margin:10px;
+}
+
+#contato ul li a{
+	font-family: Rancho, Arial, Helvetica, sans-serif;
+	text-decoration:none;
+	color: black;
+	font-size:24px;
+	text-align:center;
+	font-weight:bold;
+	display:inline-block;
+}
+
+#contato h6{
+	color:#FFF;
+	font-weight:bolder;
+	font-size:30px;	
+}
+
+
+#text1 a, #text2 a, #text3 a, #text4 a, #text5 a, #text6 a, #text7 a, #text8 a{
+	text-decoration:none;
+	padding-top:10px;
+	color:#FFF;
+	font-family: Acme, Helvetica, Arial sans-serif;
+	font-size:24px;
+	padding:5px;
+	text-align:center;
+}
+
+@font-face {
+	font-family: Pacifico;
+	src: url('../webfonts/pacifico-webfont.eot');
+	src: url('../webfonts/pacifico-webfont.eot?#iefix') format('embedded-opentype'),
+	url('../webfonts/pacifico-webfont.woff') format('woff'), url('../webfonts/pacifico-webfont.ttf') format('truetype'), url('../webfonts/pacifico-webfont.svg#Pacifico') format('svg');
+}
+
+h1{
+	font-family: Pacifico, Helvetica, Arial, sans-serif;
+	font-size:46px;
+	padding:10px;
+	color:#FFC;
+	margin-bottom:20px;
+}
+
+#quadradotext{
+	width:640px;
+	height:320px;
+	float:right;
+}
+
+h2{
+	color:#000;
+	color:#FFF;
+	font-family: Acme, Helvetica, Arial sans-serif;
+	background: #a90329; /* Old browsers */
+	background: -moz-linear-gradient(top,  #a90329 0%, #8f0222 44%, #6d0019 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#a90329), color-stop(44%,#8f0222), color-stop(100%,#6d0019)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #a90329 0%,#8f0222 44%,#6d0019 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #a90329 0%,#8f0222 44%,#6d0019 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #a90329 0%,#8f0222 44%,#6d0019 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #a90329 0%,#8f0222 44%,#6d0019 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', endColorstr='#6d0019',GradientType=0 ); /* IE6-9 */
+	border-radius:5px;
+	box-shadow:#000 2px 2px 2px;
+	font-size: 24px;
+	padding: 10px;
+	width:70%;
+}
+
+p{
+	font-family: Gudea, "Times New Roman", Times, serif;
+	color:#FFFFFF;
+	font-size: 20px;
+	padding: 10px;
+	margin: 10px;
+	
+}
+h3{
+	color:#FFF;
+	font-family: Acme, Arial, Helvetica, sans-serif;
+	font-size:20px;
+	padding:10px;
+}
+p a{
+	text-decoration:none;
+	color:#FFF;
+	
+}
+
+.centralizar{
+	text-align:center;
+}
+.right{
+	float:right;
+}
+.text{
+	float:right;
+}
+h4{
+	color:#FFF;
+	font-family: Arimo, Arial, Helvetica, sans-serif;
+	font-size:16px;
+}
+#container #contato ul li h6 a {
+	color: #FFF;
+	text-shadow:#000 2px 2px 2px;
+}
+
+#rodape{
+	width:1000px;
+	background-color:rgba(0,0,0,.6);
+	font-family:Acme, Arial, Helvetica, sans-serif;
+	color:#FFF;
+	text-align:center;
+	margin-top:20px;
+	border-radius:5px;
+	
+}
+
+.centralizar{
+	text-align:center;
+	margin:10px;
+	border-radius:50px;
+
+}
+
+.centralizar2{
+	text-align:center;
+	margin:10px;
+
+}
+

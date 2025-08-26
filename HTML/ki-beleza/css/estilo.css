@@ -1,0 +1,179 @@
+.topo{
+    background-color: #333;
+}
+.containerCentralizado{
+    display: flex;
+    justify-content: center;
+}
+.menu{
+    display: flex;
+    /*Deixa o conteudo espaçado na horizontal*/
+    justify-content: space-between;
+    /*Tamanho total, porém no máximo 1200px*/
+    width: 100%;
+    max-width: 1200px;
+    align-items: flex-end; /*Alinhar conteudo abaixo*/
+}
+.menu a{
+    color: white; /* Cor da fonte*/
+    font-size: 22px; /*Tamanho da Fonte*/
+    text-decoration: none; /*Tirar o sublinhado do link*/
+}
+.menu li{
+    display: inline; /*Deixar o menu da Horizontal*/
+    padding-right: 15px; /*Espaçamento 15px para direita*/
+}
+.menu img{
+    height: 80px; /*Altura da imagem*/
+}
+.capa{
+    background-image: url("capa1.jpg");/*Imagem de Fundo*/
+    width: 100%; /*Largura*/
+    height: 400px; /*Altura*/
+    background-size: cover; /*Tamanho do fundo*/
+    background-position: center center; /*Posicionamento do fundo | Dois center, pq vai centralizar na horizontal e vertical*/
+}
+.itemPadrao{
+    /*Tamanho total, porém o maximo 1200px*/
+    width: 100%;
+    max-width: 1200px;
+    /*Margim do texto com a página*/
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.detalhe1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.detalhe1 div{
+    width: 47%; /*Largura para cada item*/
+}
+.detalhe1 img{
+    width: 100%; /*Para a imagem ficar responsiva*/
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+    margin: 0; /*Retirar as margens padrão da página*/
+}
+h1, h2, h3, h4, h5, h6{
+    color: #9F87BB;
+}
+.bgConteudo{
+    background-image: url(bg-principal.png);
+}
+.detalhe2{
+    display: flex;
+    justify-content: space-around;
+}
+.detalhe2 .item{
+    background-color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    /*Cantos arredondados*/
+    border-radius: 20px;
+    /*Sombra*/
+    box-shadow: 0px 0px 10px 5px #9F87BB;
+    width: 100%;
+    margin-right: 2%;
+    margin-left: 2%;
+    /*Definir direção do texto*/
+    text-align: center;
+}
+.detalhe2 a{
+    text-decoration: none;
+    background-color: #9F87BB;
+    color: white;
+    border-radius: 5px;
+    padding: 5px 10px;
+    /*Deixar o texto maiúsculo*/
+    text-transform: uppercase;
+}
+.detalhe3{
+    display: flex;
+    justify-content: space-around;
+    /*Define que haverá quebra de linha no final*/
+    flex-wrap: wrap;
+}
+.detalhe3 h2{
+    width: 100%;
+    text-align: center;
+}
+.detalhe3 img{
+    /*Deixa a imagem redonda*/
+    border-radius: 50%;
+    /*Filtros: grayscale - Preto e Branco | opacity - opacidade  */
+    filter: grayscale(1) opacity(0.7); 
+}
+.detalhe3 img:hover{
+    filter: grayscale(0) opacity(1);
+}
+.detalhe3 .item{
+    text-align: center;
+    color: #9F87BB;
+    margin-bottom: 30px;
+}
+.detalhe3 span{
+    font-size: 18px;
+    /*Fonte em negrito*/
+    font-weight: bold;
+}
+.rodape{
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 30px;
+    font-size: 12px;
+}
+input, textArea{
+    width: 100%;
+    max-width: 400px;
+    background-color: #666;
+    color: white;
+    border-radius: 10px;
+    padding: 5px 10px;
+    /*Sem borda*/
+    border: none;
+}
+button{
+    background-color: #9F87BB;
+    color: white;
+    border-radius: 10px;
+    padding: 5px 20px;
+    border: none;
+    cursor: pointer; /*Muda o cursor do mouse*/
+    margin-top: 5px;
+}
+*{
+    /*Tamanho do formulaio em mobile*/
+    box-sizing: border-box;
+}
+/*CSS a ser aplicado para todas as telas próximo ao Mobile*/
+@media (max-width: 460px){
+    .detalhe1, .detalhe2{
+        display: block;
+    }
+    .detalhe1 div, .detalhe2 div{
+        width: 100%;
+    }
+    .detalhe2 .item{
+        width: 90%;
+    }
+    .detalhe3 img{
+        max-width: 250px;
+    }
+    .menu{
+        display: block;
+        text-align: center;
+    }
+    .menu ul{
+        padding: 0;
+    }
+
+}

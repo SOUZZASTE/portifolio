@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Documento sem título</title>
+
+<!-- Inicio do Nivo Slider -->
+<script type="text/javascript" src="nivo-slider/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="nivo-slider/jquery.nivo.slider.js"></script>
+<link href="nivo-slider/themes/default/default.css" type="text/css" rel="stylesheet" />
+<link href="nivo-slider/nivo-slider.css" type="text/css" rel="stylesheet" />
+<!-- Fim do Nivo Slider -->
+
+
+</head>
+
+<body>
+
+<div class="slider-wrapper theme-default">
+	<div id="slider" class="nivoSlider">
+		<img src="conteudo/imagens/home/capa-da-revista-para-home-do-site-bueiro.jpg" alt="" title="#legenda01" />
+		<img src="conteudo/imagens/home/capa-da-revista-para-home-do-site-revista.jpg" alt="" title="#legenda02" />
+		<img src="conteudo/imagens/home/capa-da-revista-para-home-do-site-skate.jpg" alt="" title="#legenda03" />
+	</div>
+     <!-- Legendas -->
+	<div id="legenda01" class="nivo-html-caption">
+       	Arte nas ruas<br />
+       <p> Entrevista com os criadores do projeto 6emeia</p>
+    </div>
+    
+    <div id="legenda02" class="nivo-html-caption">
+       	Revista<br />
+		<p> Confirma mais matérias, entrevista e curiosidades.</p>
+    </div>
+    
+    <div id="legenda03" class="nivo-html-caption">
+      Cinco lugares para andar de skate em SP
+       
+    </div>
+</div>
+
+
+<script type="text/javascript">
+	$(window).load(function() {
+        $('#slider').nivoSlider({
+			controlNav: true,
+			effect: 'random',
+		});
+    });
+</script>
+</body>
+</html>
