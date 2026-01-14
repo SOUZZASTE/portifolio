@@ -1,0 +1,501 @@
+ID,Nome do Cliente,CPF,Data da Retirada,Título do Filme,Gênero,Dias de Locação,Prazo Limite para Devolver,Valor da Locação,Data da Devolução,Devolveu no Prazo?,Dias de Atraso,Valor da Multa Diária,Valor Total da Multa,Funcionário
+1,Olivia Oliveira,567.890.123-15,02/01/2024,Vidas Passadas,Romance,3,05/01/2024,"R$ 18,00",04/01/2024,Sim,0,"R$ 4,00",0,Sandra Helena
+2,Paula Silva,234.567.890-42,03/01/2024,Kingdom of the Planet of the Apes,Ficção Científica,2,05/01/2024,"R$ 22,00",10/01/2024,Não,5,"R$ 6,00",30,Luana Mendes
+3,Henrique Almeida,890.123.456-08,04/01/2024,Mad Max: Estrada da Fúria,Ação,2,06/01/2024,"R$ 20,00",06/01/2024,Sim,0,"R$ 5,00",0,Patricia Luz
+4,Zizi Pedro,012.345.678-50,05/01/2024,Lisbela e o Prisioneiro,Romance,3,08/01/2024,"R$ 12,00",07/01/2024,Sim,0,"R$ 3,00",0,Helena Souza
+5,Uriel Farias,123.456.789-21,06/01/2024,Matrix,Ação,3,09/01/2024,"R$ 15,00",13/01/2024,Não,4,"R$ 4,00",16,Luana Mendes
+6,Elena Costa,567.890.123-05,07/01/2024,Mission: Impossible - Dead Reckoning,Ação,2,09/01/2024,"R$ 22,00",09/01/2024,Sim,0,"R$ 6,00",0,Luana Mendes
+7,Gaby Costa,345.678.901-33,08/01/2024,Django Livre,Faroeste,3,11/01/2024,"R$ 15,00",10/01/2024,Sim,0,"R$ 4,00",0,Helena Souza
+8,Lucas Silva,234.567.890-12,09/01/2024,Toy Story,Animação,5,14/01/2024,"R$ 10,00",16/01/2024,Não,2,"R$ 2,00",4,Patricia Luz
+9,Davi Pedro,012.345.678-30,10/01/2024,A Baleia,Drama,3,13/01/2024,"R$ 18,00",12/01/2024,Sim,0,"R$ 5,00",0,Luana Mendes
+10,Bruno Oliveira,234.567.890-02,11/01/2024,Bob Marley: One Love,Biografia,3,14/01/2024,"R$ 18,00",13/01/2024,Sim,0,"R$ 4,00",0,Sandra Helena
+11,Sora Oliveira,567.890.123-45,12/01/2024,Furiosa: A Mad Max Saga,Ação,2,14/01/2024,"R$ 22,00",19/01/2024,Não,5,"R$ 6,00",30,Sandra Helena
+12,Ana Silva,123.456.789-01,13/01/2024,O Rei Leão,Animação,3,16/01/2024,"R$ 12,00",15/01/2024,Sim,0,"R$ 3,00",0,Helena Souza
+13,Aline Rocha,789.012.345-27,14/01/2024,Guerra Civil,Ação,2,16/01/2024,"R$ 22,00",16/01/2024,Sim,0,"R$ 6,00",0,Patricia Luz
+14,Henrique Almeida,890.123.456-08,15/01/2024,The Little Mermaid,Fantasia,3,18/01/2024,"R$ 18,00",22/01/2024,Não,4,"R$ 4,00",16,Helena Souza
+15,Zizi Pedro,012.345.678-50,16/01/2024,Vidas Passadas,Romance,3,19/01/2024,"R$ 18,00",18/01/2024,Sim,0,"R$ 4,00",0,Patricia Luz
+16,Samuel Mendes,901.234.567-19,17/01/2024,Longlegs,Terror,2,19/01/2024,"R$ 22,00",19/01/2024,Sim,0,"R$ 6,00",0,Sandra Helena
+17,Gaby Costa,345.678.901-33,18/01/2024,Cidade de Deus,Policial,3,21/01/2024,"R$ 15,00",25/01/2024,Não,4,"R$ 4,00",16,Luana Mendes
+18,Diego Santos,456.789.012-04,19/01/2024,Elvis,Biografia,3,22/01/2024,"R$ 18,00",21/01/2024,Sim,0,"R$ 4,00",0,Patricia Luz
+19,Vitoria Silva,234.567.890-22,20/01/2024,Glass Onion,Suspense,2,22/01/2024,"R$ 18,00",22/01/2024,Sim,0,"R$ 5,00",0,Patricia Luz
+20,João Pedro,012.345.678-10,21/01/2024,Lisbela e o Prisioneiro,Romance,3,24/01/2024,"R$ 12,00",28/01/2024,Não,4,"R$ 3,00",12,Sandra Helena
+21,Léo Almeida,890.123.456-38,22/01/2024,Leave the World Behind,Suspense,2,24/01/2024,"R$ 15,00",24/01/2024,Sim,0,"R$ 4,00",0,Luana Mendes
+22,Olivia Oliveira,567.890.123-15,23/01/2024,O Acompanhante,Suspense,3,26/01/2024,"R$ 15,00",25/01/2024,Sim,0,"R$ 4,00",0,Luana Mendes
+23,Rute Santos,456.789.012-44,24/01/2024,O Poderoso Chefão,Drama,3,27/01/2024,"R$ 10,00",31/01/2024,Não,4,"R$ 3,00",12,Helena Souza
+24,Ana Silva,123.456.789-01,25/01/2024,Cocaine Bear,Comédia,3,28/01/2024,"R$ 15,00",27/01/2024,Sim,0,"R$ 4,00",0,Patricia Luz
+25,Zeca Lima,678.901.234-26,26/01/2024,O Iluminado,Terror,3,29/01/2024,"R$ 12,00",28/01/2024,Sim,0,"R$ 4,00",0,Patricia Luz
+26,Lucas Silva,234.567.890-12,27/01/2024,Harry Potter e a Pedra Filosofal,Fantasia,5,01/02/2024,"R$ 10,00",03/02/2024,Não,2,"R$ 3,00",6,Luana Mendes
+27,Xico Mendes,901.234.567-49,28/01/2024,Ferrari,Biografia,3,31/01/2024,"R$ 18,00",30/01/2024,Sim,0,"R$ 4,00",0,Sandra Helena
+28,Gisele Rocha,789.012.345-07,29/01/2024,The Whale,Drama,3,01/02/2024,"R$ 18,00",31/01/2024,Sim,0,"R$ 5,00",0,Sandra Helena
+29,Ester Lima,123.456.789-31,30/01/2024,Kung Fu Panda 4,Animação,3,02/02/2024,"R$ 18,00",06/02/2024,Não,4,"R$ 4,00",16,Luana Mendes
+30,Tatiana Pedro,012.345.678-20,01/02/2024,Tudo em Todo o Lugar ao Mesmo Tempo,Ficção Científica,2,03/02/2024,"R$ 20,00",03/02/2024,Sim,0,"R$ 6,00",0,Helena Souza
+31,Sora Oliveira,567.890.123-45,02/02/2024,Madame Web,Ação,3,05/02/2024,"R$ 15,00",04/02/2024,Sim,0,"R$ 4,00",0,Patricia Luz
+32,Isabela Mendes,901.234.567-09,03/02/2024,Hoje Eu Quero Voltar Sozinho,Romance,5,08/02/2024,"R$ 10,00",10/02/2024,Não,2,"R$ 2,00",4,Sandra Helena
+33,Nicolas Santos,456.789.012-14,04/02/2024,Inception,Ficção Científica,2,06/02/2024,"R$ 25,00",06/02/2024,Sim,0,"R$ 5,00",0,Sandra Helena
+34,Mara Mendes,901.234.567-39,05/02/2024,A Substância,Terror,2,07/02/2024,"R$ 25,00",07/02/2024,Sim,0,"R$ 7,00",0,Patricia Luz
+35,Bruno Oliveira,234.567.890-02,06/02/2024,Vidas Passadas,Romance,3,09/02/2024,"R$ 18,00",13/02/2024,Não,4,"R$ 4,00",16,Luana Mendes
+36,Rafaela Almeida,890.123.456-18,07/02/2024,A Haunting in Venice,Suspense,2,09/02/2024,"R$ 18,00",09/02/2024,Sim,0,"R$ 4,00",0,Helena Souza
+37,Zizi Pedro,012.345.678-50,08/02/2024,Toy Story,Animação,5,13/02/2024,"R$ 10,00",10/02/2024,Sim,0,"R$ 2,00",0,Helena Souza
+38,Gaby Costa,345.678.901-33,09/02/2024,Estrelas Além do Tempo,Biografia,3,12/02/2024,"R$ 15,00",16/02/2024,Não,4,"R$ 4,00",16,Luana Mendes
+39,Henrique Almeida,890.123.456-08,10/02/2024,Duna: Parte 2,Ficção Científica,2,12/02/2024,"R$ 25,00",12/02/2024,Sim,0,"R$ 7,00",0,Helena Souza
+40,Paula Silva,234.567.890-42,11/02/2024,Civil War,Ação,2,13/02/2024,"R$ 20,00",13/02/2024,Sim,0,"R$ 5,00",0,Sandra Helena
+41,Karen Farias,123.456.789-11,12/02/2024,Coringa,Drama,2,14/02/2024,"R$ 22,00",19/02/2024,Não,5,"R$ 6,00",30,Helena Souza
+42,Yuri Oliveira,567.890.123-25,13/02/2024,Seven: Os Sete Crimes Capitais,Suspense,3,16/02/2024,"R$ 12,00",15/02/2024,Sim,0,"R$ 3,00",0,Patricia Luz
+43,Kelly Rocha,789.012.345-37,14/02/2024,The Killer,Suspense,3,17/02/2024,"R$ 18,00",16/02/2024,Sim,0,"R$ 4,00",0,Helena Souza
+44,Olivia Oliveira,567.890.123-15,15/02/2024,Pobres Criaturas,Drama,2,17/02/2024,"R$ 25,00",22/02/2024,Não,5,"R$ 7,00",35,Sandra Helena
+45,Elena Costa,567.890.123-05,16/02/2024,The Fall Guy,Ação,3,19/02/2024,"R$ 18,00",18/02/2024,Sim,0,"R$ 4,00",0,Patricia Luz
+46,Xico Mendes,901.234.567-49,17/02/2024,Clube da Luta,Drama,3,20/02/2024,"R$ 15,00",19/02/2024,Sim,0,"R$ 4,00",0,Helena Souza
+47,Uriel Farias,123.456.789-21,18/02/2024,John Wick: Chapter 4,Ação,2,20/02/2024,"R$ 22,00",25/02/2024,Não,5,"R$ 6,00",30,Luana Mendes
+48,Lucas Silva,234.567.890-12,19/02/2024,Killers of the Flower Moon,Drama,2,21/02/2024,"R$ 25,00",21/02/2024,Sim,0,"R$ 7,00",0,Luana Mendes
+49,Davi Pedro,012.345.678-30,20/02/2024,O Senhor dos Anéis: As Duas Torres,Fantasia,5,25/02/2024,"R$ 12,00",22/02/2024,Sim,0,"R$ 4,00",0,Helena Souza
+50,Sora Oliveira,567.890.123-45,21/02/2024,O Senhor dos Anéis,Fantasia,5,26/02/2024,"R$ 15,00",28/02/2024,Não,2,"R$ 5,00",10,Luana Mendes
+51,João Pedro,012.345.678-10,01/03/2024,Django Livre,Faroeste,3,04/03/2024,"R$ 15,00",03/03/2024,Sim,0,"R$ 4,00",0,Patricia Luz
+52,Yuri Oliveira,567.890.123-25,02/03/2024,Mad Max: Estrada da Fúria,Ação,2,04/03/2024,"R$ 20,00",09/03/2024,Não,5,"R$ 5,00",25,Patricia Luz
+53,Elena Costa,567.890.123-05,03/03/2024,Lisbela e o Prisioneiro,Romance,3,06/03/2024,"R$ 12,00",05/03/2024,Sim,0,"R$ 3,00",0,Sandra Helena
+54,Rute Santos,456.789.012-44,04/03/2024,Mission: Impossible - Dead Reckoning,Ação,2,06/03/2024,"R$ 22,00",06/03/2024,Sim,0,"R$ 6,00",0,Luana Mendes
+55,Samuel Mendes,901.234.567-19,05/03/2024,Kung Fu Panda 4,Animação,3,08/03/2024,"R$ 18,00",12/03/2024,Não,4,"R$ 4,00",16,Helena Souza
+56,Gaby Costa,345.678.901-33,06/03/2024,Vidas Passadas,Romance,3,09/03/2024,"R$ 18,00",08/03/2024,Sim,0,"R$ 4,00",0,Patricia Luz
+57,Lucas Silva,234.567.890-12,07/03/2024,Kingdom of the Planet of the Apes,Ficção Científica,2,09/03/2024,"R$ 22,00",14/03/2024,Não,5,"R$ 6,00",30,Luana Mendes
+58,Bruno Oliveira,234.567.890-02,08/03/2024,O Acompanhante,Suspense,3,11/03/2024,"R$ 15,00",10/03/2024,Sim,0,"R$ 4,00",0,Sandra Helena
+59,Oton Silva,123.456.789-41,09/03/2024,Toy Story,Animação,5,14/03/2024,"R$ 10,00",11/03/2024,Sim,0,"R$ 2,00",0,Sandra Helena
+60,Beto Almeida,890.123.456-28,10/03/2024,A Baleia,Drama,3,13/03/2024,"R$ 18,00",17/03/2024,Não,4,"R$ 5,00",20,Patricia Luz
+61,Olivia Oliveira,567.890.123-15,11/03/2024,Bacurau,Suspense,3,14/03/2024,"R$ 15,00",13/03/2024,Sim,0,"R$ 4,00",0,Helena Souza
+62,Henrique Almeida,890.123.456-08,12/03/2024,Matrix,Ação,3,15/03/2024,"R$ 15,00",14/03/2024,Sim,0,"R$ 4,00",0,Luana Mendes
+63,Zizi Pedro,012.345.678-50,13/03/2024,A Haunting in Venice,Suspense,2,15/03/2024,"R$ 18,00",20/03/2024,Não,5,"R$ 4,00",20,Helena Souza
+64,Vitoria Silva,234.567.890-22,14/03/2024,The Fall Guy,Ação,3,17/03/2024,"R$ 18,00",16/03/2024,Sim,0,"R$ 4,00",0,Luana Mendes
+65,Kelly Rocha,789.012.345-37,15/03/2024,Kingdom of the Planet of the Apes,Ficção Científica,2,17/03/2024,"R$ 22,00",22/03/2024,Não,5,"R$ 6,00",30,Patricia Luz
+66,Lucas Silva,234.567.890-12,16/03/2024,The Little Mermaid,Fantasia,3,19/03/2024,"R$ 18,00",18/03/2024,Sim,0,"R$ 4,00",0,Luana Mendes
+67,Diego Santos,456.789.012-04,17/03/2024,Cidade de Deus,Policial,3,20/03/2024,"R$ 15,00",24/03/2024,Não,4,"R$ 4,00",16,Helena Souza
+68,Xico Mendes,901.234.567-49,18/03/2024,A Substância,Terror,2,20/03/2024,"R$ 25,00",20/03/2024,Sim,0,"R$ 7,00",0,Sandra Helena
+69,Ester Lima,123.456.789-31,19/03/2024,O Rei Leão,Animação,3,22/03/2024,"R$ 12,00",21/03/2024,Sim,0,"R$ 3,00",0,Luana Mendes
+70,Rafaela Almeida,890.123.456-18,20/03/2024,Civil War,Ação,2,22/03/2024,"R$ 20,00",27/03/2024,Não,5,"R$ 5,00",25,Helena Souza
+71,Isabela Mendes,901.234.567-09,21/03/2024,Furiosa: A Mad Max Saga,Ação,2,23/03/2024,"R$ 22,00",23/03/2024,Sim,0,"R$ 6,00",0,Patricia Luz
+72,Aline Rocha,789.012.345-27,22/03/2024,Vidas Passadas,Romance,3,25/03/2024,"R$ 18,00",24/03/2024,Sim,0,"R$ 4,00",0,Luana Mendes
+73,Sora Oliveira,567.890.123-45,23/03/2024,Madame Web,Ação,3,26/03/2024,"R$ 15,00",30/03/2024,Não,4,"R$ 4,00",16,Helena Souza
+74,Karen Farias,123.456.789-11,24/03/2024,Guerra Civil,Ação,2,26/03/2024,"R$ 22,00",26/03/2024,Sim,0,"R$ 6,00",0,Helena Souza
+75,Tatiana Pedro,012.345.678-20,25/03/2024,Inception,Ficção Científica,2,27/03/2024,"R$ 25,00",27/03/2024,Sim,0,"R$ 5,00",0,Patricia Luz
+76,Mara Mendes,901.234.567-39,26/03/2024,Cocaine Bear,Comédia,3,29/03/2024,"R$ 15,00",02/04/2024,Não,4,"R$ 4,00",16,Sandra Helena
+77,Nicolas Santos,456.789.012-14,27/03/2024,O Iluminado,Terror,3,30/03/2024,"R$ 12,00",29/03/2024,Sim,0,"R$ 4,00",0,Luana Mendes
+78,Paula Silva,234.567.890-42,28/03/2024,Glass Onion,Suspense,2,30/03/2024,"R$ 18,00",30/03/2024,Sim,0,"R$ 5,00",0,Luana Mendes
+79,Ana Silva,123.456.789-01,29/03/2024,The Killer,Suspense,3,01/04/2024,"R$ 18,00",05/04/2024,Não,4,"R$ 4,00",16,Helena Souza
+80,Zeca Lima,678.901.234-26,30/03/2024,Pulp Fiction,Policial,3,02/04/2024,"R$ 15,00",01/04/2024,Sim,0,"R$ 4,00",0,Patricia Luz
+81,Olivia Oliveira,567.890.123-15,31/03/2024,Elvis,Biografia,3,03/04/2024,"R$ 18,00",07/04/2024,Não,4,"R$ 4,00",16,Helena Souza
+82,Gaby Costa,345.678.901-33,01/04/2024,Duna: Parte 2,Ficção Científica,2,03/04/2024,"R$ 25,00",03/04/2024,Sim,0,"R$ 7,00",0,Helena Souza
+83,Zizi Pedro,012.345.678-50,02/04/2024,Fly Me to the Moon,Comédia,3,05/04/2024,"R$ 18,00",04/04/2024,Sim,0,"R$ 4,00",0,Patricia Luz
+84,Henrique Almeida,890.123.456-08,03/04/2024,Seven: Os Sete Crimes Capitais,Suspense,3,06/04/2024,"R$ 12,00",10/04/2024,Não,4,"R$ 3,00",12,Sandra Helena
+85,Uriel Farias,123.456.789-21,04/04/2024,Mission: Impossible - Dead Reckoning,Ação,2,06/04/2024,"R$ 22,00",06/04/2024,Sim,0,"R$ 6,00",0,Patricia Luz
+86,Lucas Silva,234.567.890-12,05/04/2024,The Fall Guy,Ação,3,08/04/2024,"R$ 18,00",12/04/2024,Não,4,"R$ 4,00",16,Helena Souza
+87,Sora Oliveira,567.890.123-45,06/04/2024,Clube da Luta,Drama,3,09/04/2024,"R$ 15,00",08/04/2024,Sim,0,"R$ 4,00",0,Sandra Helena
+88,Elena Costa,567.890.123-05,07/04/2024,Estrelas Além do Tempo,Biografia,3,10/04/2024,"R$ 15,00",09/04/2024,Sim,0,"R$ 4,00",0,Sandra Helena
+89,Xico Mendes,901.234.567-49,08/04/2024,Hoje Eu Quero Voltar Sozinho,Romance,5,13/04/2024,"R$ 10,00",15/04/2024,Não,2,"R$ 2,00",4,Luana Mendes
+90,Davi Pedro,012.345.678-30,09/04/2024,Planeta dos Macacos: O Reinado,Ficção Científica,2,11/04/2024,"R$ 20,00",11/04/2024,Sim,0,"R$ 5,00",0,Sandra Helena
+91,Lucas Silva,234.567.890-12,10/04/2024,The Whale,Drama,3,13/04/2024,"R$ 18,00",17/04/2024,Não,4,"R$ 5,00",20,Luana Mendes
+92,Hugo Santos,456.789.012-34,11/04/2024,Killers of the Flower Moon,Drama,2,13/04/2024,"R$ 25,00",13/04/2024,Sim,0,"R$ 7,00",0,Helena Souza
+93,Bruno Oliveira,234.567.890-02,12/04/2024,Pobres Criaturas,Drama,2,14/04/2024,"R$ 25,00",19/04/2024,Não,5,"R$ 7,00",35,Sandra Helena
+94,Samuel Mendes,901.234.567-19,13/04/2024,O Senhor dos Anéis: As Duas Torres,Fantasia,5,18/04/2024,"R$ 12,00",15/04/2024,Sim,0,"R$ 4,00",0,Helena Souza
+95,Rute Santos,456.789.012-44,14/04/2024,Barbie,Comédia,2,16/04/2024,"R$ 20,00",16/04/2024,Sim,0,"R$ 5,00",0,Luana Mendes
+96,Olivia Oliveira,567.890.123-15,15/04/2024,Bob Marley: One Love,Biografia,3,18/04/2024,"R$ 18,00",22/04/2024,Não,4,"R$ 4,00",16,Sandra Helena
+97,Gaby Costa,345.678.901-33,16/04/2024,Ferrari,Biografia,3,19/04/2024,"R$ 18,00",18/04/2024,Sim,0,"R$ 4,00",0,Sandra Helena
+98,Henrique Almeida,890.123.456-08,17/04/2024,Toy Story,Animação,5,22/04/2024,"R$ 10,00",24/04/2024,Não,2,"R$ 2,00",4,Patricia Luz
+99,Uriel Farias,123.456.789-21,18/04/2024,Babylon,Drama,3,21/04/2024,"R$ 20,00",20/04/2024,Sim,0,"R$ 5,00",0,Sandra Helena
+100,Elena Costa,567.890.123-05,19/04/2024,Lisbela e o Prisioneiro,Romance,3,22/04/2024,"R$ 12,00",21/04/2024,Sim,0,"R$ 3,00",0,Helena Souza
+101,Lucas Silva,234.567.890-12,20/04/2024,Clube da Luta,Drama,3,23/04/2024,"R$ 15,00",22/04/2024,Sim,0,"R$ 4,00",0,Patricia Luz
+102,Sora Oliveira,567.890.123-45,21/04/2024,Django Livre,Faroeste,3,24/04/2024,"R$ 15,00",28/04/2024,Não,4,"R$ 4,00",16,Sandra Helena
+103,Gisele Rocha,789.012.345-07,22/04/2024,Lisbela e o Prisioneiro,Romance,3,25/04/2024,"R$ 12,00",24/04/2024,Sim,0,"R$ 3,00",0,Luana Mendes
+104,Gaby Costa,345.678.901-33,23/04/2024,Mad Max: Estrada da Fúria,Ação,2,25/04/2024,"R$ 20,00",25/04/2024,Sim,0,"R$ 5,00",0,Sandra Helena
+105,Zizi Pedro,012.345.678-50,24/04/2024,Vidas Passadas,Romance,3,27/04/2024,"R$ 18,00",01/05/2024,Não,4,"R$ 4,00",16,Sandra Helena
+106,Rafaela Almeida,890.123.456-18,01/05/2024,Furiosa: A Mad Max Saga,Ação,2,03/05/2024,"R$ 22,00",03/05/2024,Sim,0,"R$ 6,00",0,Patricia Luz
+107,Bruno Oliveira,234.567.890-02,02/05/2024,Vingadores: Ultimato,Ação,2,04/05/2024,"R$ 25,00",04/05/2024,Sim,0,"R$ 7,00",0,Helena Souza
+108,Cida Mendes,901.234.567-29,03/05/2024,Hoje Eu Quero Voltar Sozinho,Romance,5,08/05/2024,"R$ 10,00",10/05/2024,Não,2,"R$ 2,00",4,Sandra Helena
+109,Olivia Oliveira,567.890.123-15,04/05/2024,Guerra Civil,Ação,2,06/05/2024,"R$ 22,00",06/05/2024,Sim,0,"R$ 6,00",0,Patricia Luz
+110,Nando Pedro,012.345.678-40,05/05/2024,The Whale,Drama,3,08/05/2024,"R$ 18,00",12/05/2024,Não,4,"R$ 5,00",20,Luana Mendes
+111,Henrique Almeida,890.123.456-08,06/05/2024,Toy Story,Animação,5,11/05/2024,"R$ 10,00",08/05/2024,Sim,0,"R$ 2,00",0,Sandra Helena
+112,Vitoria Silva,234.567.890-22,07/05/2024,A Haunting in Venice,Suspense,2,09/05/2024,"R$ 18,00",09/05/2024,Sim,0,"R$ 4,00",0,Helena Souza
+113,Ana Silva,123.456.789-01,08/05/2024,Kung Fu Panda 4,Animação,3,11/05/2024,"R$ 18,00",15/05/2024,Não,4,"R$ 4,00",16,Luana Mendes
+114,Kelly Rocha,789.012.345-37,09/05/2024,Estrelas Além do Tempo,Biografia,3,12/05/2024,"R$ 15,00",11/05/2024,Sim,0,"R$ 4,00",0,Sandra Helena
+115,Karen Farias,123.456.789-11,10/05/2024,O Rei Leão,Animação,3,13/05/2024,"R$ 12,00",17/05/2024,Não,4,"R$ 3,00",12,Luana Mendes
+116,Rute Santos,456.789.012-44,11/05/2024,A Substância,Terror,2,13/05/2024,"R$ 25,00",13/05/2024,Sim,0,"R$ 7,00",0,Helena Souza
+117,Zeca Lima,678.901.234-26,12/05/2024,Tudo em Todo o Lugar ao Mesmo Tempo,Ficção Científica,2,14/05/2024,"R$ 20,00",14/05/2024,Sim,0,"R$ 6,00",0,Sandra Helena
+118,Elena Costa,567.890.123-05,13/05/2024,Duna: Parte 2,Ficção Científica,2,15/05/2024,"R$ 25,00",20/05/2024,Não,5,"R$ 7,00",35,Patricia Luz
+119,Xico Mendes,901.234.567-49,14/05/2024,Civil War,Ação,2,16/05/2024,"R$ 20,00",16/05/2024,Sim,0,"R$ 5,00",0,Patricia Luz
+120,Mariana Costa,345.678.901-13,15/05/2024,The Little Mermaid,Fantasia,3,18/05/2024,"R$ 18,00",22/05/2024,Não,4,"R$ 4,00",16,Sandra Helena
+121,Ester Lima,123.456.789-31,16/05/2024,Glass Onion,Suspense,2,18/05/2024,"R$ 18,00",18/05/2024,Sim,0,"R$ 5,00",0,Sandra Helena
+122,Tatiana Pedro,012.345.678-20,17/05/2024,Cidade de Deus,Policial,3,20/05/2024,"R$ 15,00",19/05/2024,Sim,0,"R$ 4,00",0,Sandra Helena
+123,Paula Silva,234.567.890-42,18/05/2024,Furiosa: A Mad Max Saga,Ação,2,20/05/2024,"R$ 22,00",25/05/2024,Não,5,"R$ 6,00",30,Sandra Helena
+124,Olivia Oliveira,567.890.123-15,19/05/2024,Bob Marley: One Love,Biografia,3,22/05/2024,"R$ 18,00",21/05/2024,Sim,0,"R$ 4,00",0,Luana Mendes
+125,Gaby Costa,345.678.901-33,20/05/2024,Vidas Passadas,Romance,3,23/05/2024,"R$ 18,00",27/05/2024,Não,4,"R$ 4,00",16,Patricia Luz
+126,Henrique Almeida,890.123.456-08,01/06/2024,Django Livre,Faroeste,3,04/06/2024,"R$ 15,00",03/06/2024,Sim,0,"R$ 4,00",0,Sandra Helena
+127,Zizi Pedro,012.345.678-50,02/06/2024,Lisbela e o Prisioneiro,Romance,3,05/06/2024,"R$ 12,00",09/06/2024,Não,4,"R$ 3,00",12,Luana Mendes
+128,Uriel Farias,123.456.789-21,03/06/2024,Clube da Luta,Drama,3,06/06/2024,"R$ 15,00",05/06/2024,Sim,0,"R$ 4,00",0,Luana Mendes
+129,Lucas Silva,234.567.890-12,04/06/2024,Kingdom of the Planet of the Apes,Ficção Científica,2,06/06/2024,"R$ 22,00",06/06/2024,Sim,0,"R$ 6,00",0,Sandra Helena
+130,Sora Oliveira,567.890.123-45,05/06/2024,Toy Story,Animação,5,10/06/2024,"R$ 10,00",12/06/2024,Não,2,"R$ 2,00",4,Helena Souza
+131,Bruno Oliveira,234.567.890-02,06/06/2024,A Baleia,Drama,3,09/06/2024,"R$ 18,00",08/06/2024,Sim,0,"R$ 5,00",0,Helena Souza
+132,Hugo Santos,456.789.012-34,07/06/2024,Bacurau,Suspense,3,10/06/2024,"R$ 15,00",09/06/2024,Sim,0,"R$ 4,00",0,Sandra Helena
+133,João Pedro,012.345.678-10,08/06/2024,Matrix,Ação,3,11/06/2024,"R$ 15,00",15/06/2024,Não,4,"R$ 4,00",16,Patricia Luz
+134,Aline Rocha,789.012.345-27,09/06/2024,Leave the World Behind,Suspense,2,11/06/2024,"R$ 15,00",11/06/2024,Sim,0,"R$ 4,00",0,Luana Mendes
+135,Vava Almeida,890.123.456-48,10/06/2024,Mad Max: Estrada da Fúria,Ação,2,12/06/2024,"R$ 20,00",12/06/2024,Sim,0,"R$ 5,00",0,Sandra Helena
+136,Samuel Mendes,901.234.567-19,11/06/2024,Ferrari,Biografia,3,14/06/2024,"R$ 18,00",18/06/2024,Não,4,"R$ 4,00",16,Sandra Helena
+137,Gaby Costa,345.678.901-33,12/06/2024,Harry Potter e a Pedra Filosofal,Fantasia,5,17/06/2024,"R$ 10,00",14/06/2024,Sim,0,"R$ 3,00",0,Patricia Luz
+138,Elena Costa,567.890.123-05,13/06/2024,The Whale,Drama,3,16/06/2024,"R$ 18,00",20/06/2024,Não,4,"R$ 5,00",20,Sandra Helena
+139,Paula Silva,234.567.890-42,14/06/2024,Kung Fu Panda 4,Animação,3,17/06/2024,"R$ 18,00",16/06/2024,Sim,0,"R$ 4,00",0,Luana Mendes
+140,Olivia Oliveira,567.890.123-15,15/06/2024,Madame Web,Ação,3,18/06/2024,"R$ 15,00",17/06/2024,Sim,0,"R$ 4,00",0,Sandra Helena
+141,Ana Silva,123.456.789-01,16/06/2024,Inception,Ficção Científica,2,18/06/2024,"R$ 25,00",23/06/2024,Não,5,"R$ 5,00",25,Sandra Helena
+142,Mara Mendes,901.234.567-39,17/06/2024,Cocaine Bear,Comédia,3,20/06/2024,"R$ 15,00",19/06/2024,Sim,0,"R$ 4,00",0,Helena Souza
+143,Nicolas Santos,456.789.012-14,18/06/2024,O Iluminado,Terror,3,21/06/2024,"R$ 12,00",20/06/2024,Sim,0,"R$ 4,00",0,Patricia Luz
+144,Xico Mendes,901.234.567-49,19/06/2024,The Killer,Suspense,3,22/06/2024,"R$ 18,00",26/06/2024,Não,4,"R$ 4,00",16,Sandra Helena
+145,Zeca Lima,678.901.234-26,20/06/2024,Estrelas Além do Tempo,Biografia,3,23/06/2024,"R$ 15,00",22/06/2024,Sim,0,"R$ 4,00",0,Patricia Luz
+146,Lucas Silva,234.567.890-12,01/07/2024,Vidas Passadas,Romance,3,04/07/2024,"R$ 18,00",03/07/2024,Sim,0,"R$ 4,00",0,Patricia Luz
+147,Sora Oliveira,567.890.123-45,02/07/2024,Lisbela e o Prisioneiro,Romance,3,05/07/2024,"R$ 12,00",09/07/2024,Não,4,"R$ 3,00",12,Sandra Helena
+148,Henrique Almeida,890.123.456-08,03/07/2024,Toy Story,Animação,5,08/07/2024,"R$ 10,00",05/07/2024,Sim,0,"R$ 2,00",0,Sandra Helena
+149,Gaby Costa,345.678.901-33,04/07/2024,Mad Max: Estrada da Fúria,Ação,2,06/07/2024,"R$ 20,00",06/07/2024,Sim,0,"R$ 5,00",0,Patricia Luz
+150,Uriel Farias,123.456.789-21,05/07/2024,Django Livre,Faroeste,3,08/07/2024,"R$ 15,00",12/07/2024,Não,4,"R$ 4,00",16,Sandra Helena
+151,João Pedro,012.345.678-10,01/08/2024,Vidas Passadas,Romance,3,04/08/2024,"R$ 18,00",03/08/2024,Sim,0,"R$ 4,00",0,Luana Mendes
+152,Yuri Oliveira,567.890.123-25,02/08/2024,Kingdom of the Planet of the Apes,Ficção Científica,2,04/08/2024,"R$ 22,00",09/08/2024,Não,5,"R$ 6,00",30,Luana Mendes
+153,Elena Costa,567.890.123-05,03/08/2024,Mad Max: Estrada da Fúria,Ação,2,05/08/2024,"R$ 20,00",05/08/2024,Sim,0,"R$ 5,00",0,Sandra Helena
+154,Rute Santos,456.789.012-44,04/08/2024,Lisbela e o Prisioneiro,Romance,3,07/08/2024,"R$ 12,00",11/08/2024,Não,4,"R$ 3,00",12,Sandra Helena
+155,Samuel Mendes,901.234.567-19,05/08/2024,Clube da Luta,Drama,3,08/08/2024,"R$ 15,00",07/08/2024,Sim,0,"R$ 4,00",0,Helena Souza
+156,Gaby Costa,345.678.901-33,06/08/2024,Django Livre,Faroeste,3,09/08/2024,"R$ 15,00",08/08/2024,Sim,0,"R$ 4,00",0,Sandra Helena
+157,Lucas Silva,234.567.890-12,07/08/2024,Toy Story,Animação,5,12/08/2024,"R$ 10,00",14/08/2024,Não,2,"R$ 2,00",4,Sandra Helena
+158,Bruno Oliveira,234.567.890-02,08/08/2024,A Baleia,Drama,3,11/08/2024,"R$ 18,00",10/08/2024,Sim,0,"R$ 5,00",0,Luana Mendes
+159,Oton Silva,123.456.789-41,09/08/2024,Bob Marley: One Love,Biografia,3,12/08/2024,"R$ 18,00",11/08/2024,Sim,0,"R$ 4,00",0,Sandra Helena
+160,Beto Almeida,890.123.456-28,10/08/2024,Furiosa: A Mad Max Saga,Ação,2,12/08/2024,"R$ 22,00",17/08/2024,Não,5,"R$ 6,00",30,Luana Mendes
+161,Olivia Oliveira,567.890.123-15,11/08/2024,O Rei Leão,Animação,3,14/08/2024,"R$ 12,00",13/08/2024,Sim,0,"R$ 3,00",0,Helena Souza
+162,Henrique Almeida,890.123.456-08,12/08/2024,Guerra Civil,Ação,2,14/08/2024,"R$ 22,00",14/08/2024,Sim,0,"R$ 6,00",0,Sandra Helena
+163,Zizi Pedro,012.345.678-50,13/08/2024,The Little Mermaid,Fantasia,3,16/08/2024,"R$ 18,00",20/08/2024,Não,4,"R$ 4,00",16,Helena Souza
+164,Vitoria Silva,234.567.890-22,14/08/2024,Toy Story,Animação,5,19/08/2024,"R$ 10,00",16/08/2024,Sim,0,"R$ 2,00",0,Helena Souza
+165,Kelly Rocha,789.012.345-37,15/08/2024,Kingdom of the Planet of the Apes,Ficção Científica,2,17/08/2024,"R$ 22,00",22/08/2024,Não,5,"R$ 6,00",30,Sandra Helena
+166,Lucas Silva,234.567.890-12,16/08/2024,Vidas Passadas,Romance,3,19/08/2024,"R$ 18,00",18/08/2024,Sim,0,"R$ 4,00",0,Patricia Luz
+167,Diego Santos,456.789.012-04,17/08/2024,Cidade de Deus,Policial,3,20/08/2024,"R$ 15,00",19/08/2024,Sim,0,"R$ 4,00",0,Patricia Luz
+168,Xico Mendes,901.234.567-49,18/08/2024,A Substância,Terror,2,20/08/2024,"R$ 25,00",25/08/2024,Não,5,"R$ 7,00",35,Sandra Helena
+169,Ester Lima,123.456.789-31,19/08/2024,Spider-Man: Across the Spider-Verse,Animação,2,21/08/2024,"R$ 20,00",21/08/2024,Sim,0,"R$ 5,00",0,Helena Souza
+170,Rafaela Almeida,890.123.456-18,20/08/2024,Glass Onion,Suspense,2,22/08/2024,"R$ 18,00",22/08/2024,Sim,0,"R$ 5,00",0,Sandra Helena
+171,Isabela Mendes,901.234.567-09,01/09/2024,O Poderoso Chefão,Drama,3,04/09/2024,"R$ 10,00",08/09/2024,Não,4,"R$ 3,00",12,Sandra Helena
+172,Aline Rocha,789.012.345-27,02/09/2024,O Acompanhante,Suspense,3,05/09/2024,"R$ 15,00",04/09/2024,Sim,0,"R$ 4,00",0,Patricia Luz
+173,Sora Oliveira,567.890.123-45,03/09/2024,O Iluminado,Terror,3,06/09/2024,"R$ 12,00",05/09/2024,Sim,0,"R$ 4,00",0,Patricia Luz
+174,Karen Farias,123.456.789-11,04/09/2024,The Whale,Drama,3,07/09/2024,"R$ 18,00",11/09/2024,Não,4,"R$ 5,00",20,Sandra Helena
+175,Tatiana Pedro,012.345.678-20,05/09/2024,Kung Fu Panda 4,Animação,3,08/09/2024,"R$ 18,00",07/09/2024,Sim,0,"R$ 4,00",0,Luana Mendes
+176,Mara Mendes,901.234.567-39,06/09/2024,Tudo em Todo o Lugar ao Mesmo Tempo,Ficção Científica,2,08/09/2024,"R$ 20,00",13/09/2024,Não,5,"R$ 6,00",30,Patricia Luz
+177,Nicolas Santos,456.789.012-14,07/09/2024,Madame Web,Ação,3,10/09/2024,"R$ 15,00",09/09/2024,Sim,0,"R$ 4,00",0,Sandra Helena
+178,Paula Silva,234.567.890-42,08/09/2024,Hoje Eu Quero Voltar Sozinho,Romance,5,13/09/2024,"R$ 10,00",15/09/2024,Não,2,"R$ 2,00",4,Patricia Luz
+179,Ana Silva,123.456.789-01,09/09/2024,Inception,Ficção Científica,2,11/09/2024,"R$ 25,00",11/09/2024,Sim,0,"R$ 5,00",0,Sandra Helena
+180,Zeca Lima,678.901.234-26,10/09/2024,A Haunting in Venice,Suspense,2,12/09/2024,"R$ 18,00",17/09/2024,Não,5,"R$ 4,00",20,Sandra Helena
+181,Olivia Oliveira,567.890.123-15,11/09/2024,O Senhor dos Anéis,Fantasia,5,16/09/2024,"R$ 15,00",13/09/2024,Sim,0,"R$ 5,00",0,Patricia Luz
+182,Gaby Costa,345.678.901-33,12/09/2024,Civil War,Ação,2,14/09/2024,"R$ 20,00",14/09/2024,Sim,0,"R$ 5,00",0,Luana Mendes
+183,Zizi Pedro,012.345.678-50,13/09/2024,Estrelas Além do Tempo,Biografia,3,16/09/2024,"R$ 15,00",20/09/2024,Não,4,"R$ 4,00",16,Sandra Helena
+184,Henrique Almeida,890.123.456-08,14/09/2024,Duna: Parte 2,Ficção Científica,2,16/09/2024,"R$ 25,00",16/09/2024,Sim,0,"R$ 7,00",0,Helena Souza
+185,Uriel Farias,123.456.789-21,15/09/2024,Cães de Aluguel,Policial,5,20/09/2024,"R$ 12,00",22/09/2024,Não,2,"R$ 3,00",6,Helena Souza
+186,Lucas Silva,234.567.890-12,16/09/2024,Wish,Animação,3,19/09/2024,"R$ 18,00",18/09/2024,Sim,0,"R$ 4,00",0,Sandra Helena
+187,Sora Oliveira,567.890.123-45,17/09/2024,Bacurau,Suspense,3,20/09/2024,"R$ 15,00",24/09/2024,Não,4,"R$ 4,00",16,Sandra Helena
+188,Elena Costa,567.890.123-05,18/09/2024,Assassinato no Expresso do Oriente,Suspense,3,21/09/2024,"R$ 12,00",20/09/2024,Sim,0,"R$ 3,00",0,Patricia Luz
+189,Xico Mendes,901.234.567-49,19/09/2024,Fly Me to the Moon,Comédia,3,22/09/2024,"R$ 18,00",26/09/2024,Não,4,"R$ 4,00",16,Sandra Helena
+190,Davi Pedro,012.345.678-30,20/09/2024,Planeta dos Macacos: O Reinado,Ficção Científica,2,22/09/2024,"R$ 20,00",22/09/2024,Sim,0,"R$ 5,00",0,Luana Mendes
+191,Lucas Silva,234.567.890-12,01/10/2024,The Batman,Ação,2,03/10/2024,"R$ 20,00",08/10/2024,Não,5,"R$ 5,00",25,Helena Souza
+192,Hugo Santos,456.789.012-34,02/10/2024,Killers of the Flower Moon,Drama,2,04/10/2024,"R$ 25,00",04/10/2024,Sim,0,"R$ 7,00",0,Sandra Helena
+193,Bruno Oliveira,234.567.890-02,03/10/2024,O Senhor dos Anéis: As Duas Torres,Fantasia,5,08/10/2024,"R$ 12,00",10/10/2024,Não,2,"R$ 4,00",8,Patricia Luz
+194,Samuel Mendes,901.234.567-19,04/10/2024,Pobres Criaturas,Drama,2,06/10/2024,"R$ 25,00",06/10/2024,Sim,0,"R$ 7,00",0,Luana Mendes
+195,Rute Santos,456.789.012-44,05/10/2024,Beau Tem Medo,Drama,3,08/10/2024,"R$ 20,00",12/10/2024,Não,4,"R$ 6,00",24,Sandra Helena
+196,Olivia Oliveira,567.890.123-15,06/10/2024,The Fall Guy,Ação,3,09/10/2024,"R$ 18,00",08/10/2024,Sim,0,"R$ 4,00",0,Luana Mendes
+197,Gaby Costa,345.678.901-33,07/10/2024,Cocaine Bear,Comédia,3,10/10/2024,"R$ 15,00",14/10/2024,Não,4,"R$ 4,00",16,Patricia Luz
+198,Henrique Almeida,890.123.456-08,08/10/2024,Coringa,Drama,2,10/10/2024,"R$ 22,00",10/10/2024,Sim,0,"R$ 6,00",0,Sandra Helena
+199,Uriel Farias,123.456.789-21,09/10/2024,Seven: Os Sete Crimes Capitais,Suspense,3,12/10/2024,"R$ 12,00",16/10/2024,Não,4,"R$ 3,00",12,Patricia Luz
+200,Elena Costa,567.890.123-05,10/10/2024,The Killer,Suspense,3,13/10/2024,"R$ 18,00",12/10/2024,Sim,0,"R$ 4,00",0,Sandra Helena
+201,Lucas Silva,234.567.890-12,15/10/2024,Estrelas Além do Tempo,Biografia,3,18/10/2024,"R$ 15,00",17/10/2024,Sim,0,"R$ 4,00",0,Sandra Helena
+202,Sora Oliveira,567.890.123-45,16/10/2024,O Iluminado,Terror,3,19/10/2024,"R$ 12,00",23/10/2024,Não,4,"R$ 4,00",16,Sandra Helena
+203,Henrique Almeida,890.123.456-08,17/10/2024,Assassinato no Expresso do Oriente,Suspense,3,20/10/2024,"R$ 12,00",19/10/2024,Sim,0,"R$ 3,00",0,Luana Mendes
+204,Gaby Costa,345.678.901-33,18/10/2024,Fly Me to the Moon,Comédia,3,21/10/2024,"R$ 18,00",20/10/2024,Sim,0,"R$ 4,00",0,Helena Souza
+205,Zizi Pedro,012.345.678-50,19/10/2024,The Whale,Drama,3,22/10/2024,"R$ 18,00",26/10/2024,Não,4,"R$ 5,00",20,Sandra Helena
+206,Bruno Oliveira,234.567.890-02,20/10/2024,Planeta dos Macacos: O Reinado,Ficção Científica,2,22/10/2024,"R$ 20,00",22/10/2024,Sim,0,"R$ 5,00",0,Patricia Luz
+207,Olivia Oliveira,567.890.123-15,21/10/2024,The Batman,Ação,2,23/10/2024,"R$ 20,00",23/10/2024,Sim,0,"R$ 5,00",0,Luana Mendes
+208,Cida Mendes,901.234.567-29,22/10/2024,Killers of the Flower Moon,Drama,2,24/10/2024,"R$ 25,00",29/10/2024,Não,5,"R$ 7,00",35,Helena Souza
+209,Paula Silva,234.567.890-42,23/10/2024,O Senhor dos Anéis: As Duas Torres,Fantasia,5,28/10/2024,"R$ 12,00",25/10/2024,Sim,0,"R$ 4,00",0,Sandra Helena
+210,Elena Costa,567.890.123-05,24/10/2024,Pobres Criaturas,Drama,2,26/10/2024,"R$ 25,00",31/10/2024,Não,5,"R$ 7,00",35,Patricia Luz
+211,João Pedro,012.345.678-10,01/11/2024,Beau Tem Medo,Drama,3,04/11/2024,"R$ 20,00",03/11/2024,Sim,0,"R$ 6,00",0,Luana Mendes
+212,Vitoria Silva,234.567.890-22,02/11/2024,The Fall Guy,Ação,3,05/11/2024,"R$ 18,00",09/11/2024,Não,4,"R$ 4,00",16,Helena Souza
+213,Ana Silva,123.456.789-01,03/11/2024,Cocaine Bear,Comédia,3,06/11/2024,"R$ 15,00",05/11/2024,Sim,0,"R$ 4,00",0,Sandra Helena
+214,Kelly Rocha,789.012.345-37,04/11/2024,Coringa,Drama,2,06/11/2024,"R$ 22,00",11/11/2024,Não,5,"R$ 6,00",30,Patricia Luz
+215,Karen Farias,123.456.789-11,05/11/2024,Seven: Os Sete Crimes Capitais,Suspense,3,08/11/2024,"R$ 12,00",07/11/2024,Sim,0,"R$ 3,00",0,Luana Mendes
+216,Rute Santos,456.789.012-44,06/11/2024,The Killer,Suspense,3,09/11/2024,"R$ 18,00",13/11/2024,Não,4,"R$ 4,00",16,Helena Souza
+217,Zeca Lima,678.901.234-26,07/11/2024,Estrelas Além do Tempo,Biografia,3,10/11/2024,"R$ 15,00",09/11/2024,Sim,0,"R$ 4,00",0,Sandra Helena
+218,Elena Costa,567.890.123-05,08/11/2024,O Iluminado,Terror,3,11/11/2024,"R$ 12,00",15/11/2024,Não,4,"R$ 4,00",16,Patricia Luz
+219,Xico Mendes,901.234.567-49,09/11/2024,Assassinato no Expresso do Oriente,Suspense,3,12/11/2024,"R$ 12,00",11/11/2024,Sim,0,"R$ 3,00",0,Luana Mendes
+220,Mariana Costa,345.678.901-13,10/11/2024,Fly Me to the Moon,Comédia,3,13/11/2024,"R$ 18,00",17/11/2024,Não,4,"R$ 4,00",16,Helena Souza
+221,Ester Lima,123.456.789-31,11/11/2024,The Whale,Drama,3,14/11/2024,"R$ 18,00",13/11/2024,Sim,0,"R$ 5,00",0,Sandra Helena
+222,Tatiana Pedro,012.345.678-20,12/11/2024,Planeta dos Macacos: O Reinado,Ficção Científica,2,14/11/2024,"R$ 20,00",19/11/2024,Não,5,"R$ 5,00",25,Patricia Luz
+223,Paula Silva,234.567.890-42,13/11/2024,The Batman,Ação,2,15/11/2024,"R$ 20,00",15/11/2024,Sim,0,"R$ 5,00",0,Luana Mendes
+224,Olivia Oliveira,567.890.123-15,14/11/2024,Killers of the Flower Moon,Drama,2,16/11/2024,"R$ 25,00",21/11/2024,Não,5,"R$ 7,00",35,Helena Souza
+225,Gaby Costa,345.678.901-33,15/11/2024,O Senhor dos Anéis: As Duas Torres,Fantasia,5,20/11/2024,"R$ 12,00",17/11/2024,Sim,0,"R$ 4,00",0,Sandra Helena
+226,Henrique Almeida,890.123.456-08,01/12/2024,Pobres Criaturas,Drama,2,03/12/2024,"R$ 25,00",03/12/2024,Sim,0,"R$ 7,00",0,Patricia Luz
+227,Zizi Pedro,012.345.678-50,02/12/2024,Beau Tem Medo,Drama,3,05/12/2024,"R$ 20,00",09/12/2024,Não,4,"R$ 6,00",24,Luana Mendes
+228,Uriel Farias,123.456.789-21,03/12/2024,The Fall Guy,Ação,3,06/12/2024,"R$ 18,00",05/12/2024,Sim,0,"R$ 4,00",0,Helena Souza
+229,Lucas Silva,234.567.890-12,04/12/2024,Cocaine Bear,Comédia,3,07/12/2024,"R$ 15,00",11/12/2024,Não,4,"R$ 4,00",16,Sandra Helena
+230,Sora Oliveira,567.890.123-45,05/12/2024,Coringa,Drama,2,07/12/2024,"R$ 22,00",07/12/2024,Sim,0,"R$ 6,00",0,Patricia Luz
+231,Bruno Oliveira,234.567.890-02,06/12/2024,Seven: Os Sete Crimes Capitais,Suspense,3,09/12/2024,"R$ 12,00",13/12/2024,Não,4,"R$ 3,00",12,Luana Mendes
+232,Hugo Santos,456.789.012-34,07/12/2024,The Killer,Suspense,3,10/12/2024,"R$ 18,00",09/12/2024,Sim,0,"R$ 4,00",0,Helena Souza
+233,João Pedro,012.345.678-10,08/12/2024,Estrelas Além do Tempo,Biografia,3,11/12/2024,"R$ 15,00",15/12/2024,Não,4,"R$ 4,00",16,Sandra Helena
+234,Aline Rocha,789.012.345-27,09/12/2024,O Iluminado,Terror,3,12/12/2024,"R$ 12,00",11/12/2024,Sim,0,"R$ 4,00",0,Patricia Luz
+235,Vava Almeida,890.123.456-48,10/12/2024,Assassinato no Expresso do Oriente,Suspense,3,13/12/2024,"R$ 12,00",17/12/2024,Não,4,"R$ 3,00",12,Luana Mendes
+236,Samuel Mendes,901.234.567-19,11/12/2024,Fly Me to the Moon,Comédia,3,14/12/2024,"R$ 18,00",13/12/2024,Sim,0,"R$ 4,00",0,Helena Souza
+237,Gaby Costa,345.678.901-33,12/12/2024,The Whale,Drama,3,15/12/2024,"R$ 18,00",19/12/2024,Não,4,"R$ 5,00",20,Sandra Helena
+238,Elena Costa,567.890.123-05,13/12/2024,Planeta dos Macacos: O Reinado,Ficção Científica,2,15/12/2024,"R$ 20,00",15/12/2024,Sim,0,"R$ 5,00",0,Patricia Luz
+239,Paula Silva,234.567.890-42,14/12/2024,The Batman,Ação,2,16/12/2024,"R$ 20,00",21/12/2024,Não,5,"R$ 5,00",25,Luana Mendes
+240,Olivia Oliveira,567.890.123-15,15/12/2024,Killers of the Flower Moon,Drama,2,17/12/2024,"R$ 25,00",17/12/2024,Sim,0,"R$ 7,00",0,Helena Souza
+241,Ana Silva,123.456.789-01,16/12/2024,O Senhor dos Anéis: As Duas Torres,Fantasia,5,21/12/2024,"R$ 12,00",23/12/2024,Não,2,"R$ 4,00",8,Sandra Helena
+242,Mara Mendes,901.234.567-39,17/12/2024,Pobres Criaturas,Drama,2,19/12/2024,"R$ 25,00",19/12/2024,Sim,0,"R$ 7,00",0,Patricia Luz
+243,Nicolas Santos,456.789.012-14,18/12/2024,Beau Tem Medo,Drama,3,21/12/2024,"R$ 20,00",25/12/2024,Não,4,"R$ 6,00",24,Luana Mendes
+244,Xico Mendes,901.234.567-49,19/12/2024,The Fall Guy,Ação,3,22/12/2024,"R$ 18,00",21/12/2024,Sim,0,"R$ 4,00",0,Helena Souza
+245,Zeca Lima,678.901.234-26,20/12/2024,Cocaine Bear,Comédia,3,23/12/2024,"R$ 15,00",27/12/2024,Não,4,"R$ 4,00",16,Sandra Helena
+246,Lucas Silva,234.567.890-12,21/12/2024,Coringa,Drama,2,23/12/2024,"R$ 22,00",23/12/2024,Sim,0,"R$ 6,00",0,Patricia Luz
+247,Sora Oliveira,567.890.123-45,22/12/2024,Seven: Os Sete Crimes Capitais,Suspense,3,25/12/2024,"R$ 12,00",29/12/2024,Não,4,"R$ 3,00",12,Luana Mendes
+248,Henrique Almeida,890.123.456-08,23/12/2024,The Killer,Suspense,3,26/12/2024,"R$ 18,00",25/12/2024,Sim,0,"R$ 4,00",0,Helena Souza
+249,Gaby Costa,345.678.901-33,24/12/2024,Estrelas Além do Tempo,Biografia,3,27/12/2024,"R$ 15,00",31/12/2024,Não,4,"R$ 4,00",16,Sandra Helena
+250,Uriel Farias,123.456.789-21,25/12/2024,O Iluminado,Terror,3,28/12/2024,"R$ 12,00",27/12/2024,Sim,0,"R$ 4,00",0,Patricia Luz
+251,Lucas Silva,234.567.890-12,05/01/2024,Vidas Passadas,Romance,3,08/01/2024,"R$ 18,00",07/01/2024,Sim,0,"R$ 4,00",0,Luana Mendes
+252,Hugo Santos,456.789.012-34,06/01/2024,Kingdom of the Planet of the Apes,Ficção Científica,2,08/01/2024,"R$ 22,00",12/01/2024,Não,4,"R$ 6,00",24,Helena Souza
+253,Henrique Almeida,890.123.456-08,07/01/2024,Mad Max: Estrada da Fúria,Ação,2,09/01/2024,"R$ 20,00",09/01/2024,Sim,0,"R$ 5,00",0,Sandra Helena
+254,Sora Oliveira,567.890.123-45,08/01/2024,Mission: Impossible - Dead Reckoning,Ação,2,10/01/2024,"R$ 22,00",10/01/2024,Sim,0,"R$ 6,00",0,Patricia Luz
+255,Uriel Farias,123.456.789-21,09/01/2024,Matrix,Ação,3,12/01/2024,"R$ 15,00",15/01/2024,Não,3,"R$ 4,00",12,Luana Mendes
+256,Elena Costa,567.890.123-05,10/01/2024,Lisbela e o Prisioneiro,Romance,3,13/01/2024,"R$ 12,00",11/01/2024,Sim,0,"R$ 3,00",0,Helena Souza
+257,Xico Mendes,901.234.567-49,11/01/2024,Django Livre,Faroeste,3,14/01/2024,"R$ 15,00",14/01/2024,Sim,0,"R$ 4,00",0,Sandra Helena
+258,Olivia Oliveira,567.890.123-15,12/01/2024,Toy Story,Animação,5,17/01/2024,"R$ 10,00",20/01/2024,Não,3,"R$ 2,00",6,Patricia Luz
+259,Davi Pedro,012.345.678-30,13/01/2024,A Baleia,Drama,3,16/01/2024,"R$ 18,00",15/01/2024,Sim,0,"R$ 5,00",0,Luana Mendes
+260,Bruno Oliveira,234.567.890-02,14/01/2024,Bob Marley: One Love,Biografia,3,17/01/2024,"R$ 18,00",16/01/2024,Sim,0,"R$ 4,00",0,Helena Souza
+261,Lucas Silva,234.567.890-12,15/01/2024,Furiosa: A Mad Max Saga,Ação,2,17/01/2024,"R$ 22,00",22/01/2024,Não,5,"R$ 6,00",30,Sandra Helena
+262,Oton Silva,123.456.789-41,16/01/2024,O Rei Leão,Animação,3,19/01/2024,"R$ 12,00",18/01/2024,Sim,0,"R$ 3,00",0,Patricia Luz
+263,Aline Rocha,789.012.345-27,17/01/2024,Guerra Civil,Ação,2,19/01/2024,"R$ 22,00",19/01/2024,Sim,0,"R$ 6,00",0,Luana Mendes
+264,Henrique Almeida,890.123.456-08,18/01/2024,The Little Mermaid,Fantasia,3,21/01/2024,"R$ 18,00",21/01/2024,Sim,0,"R$ 4,00",0,Helena Souza
+265,Zizi Pedro,012.345.678-50,19/01/2024,Vidas Passadas,Romance,3,22/01/2024,"R$ 18,00",26/01/2024,Não,4,"R$ 4,00",16,Sandra Helena
+266,Samuel Mendes,901.234.567-19,20/01/2024,Longlegs,Terror,2,22/01/2024,"R$ 22,00",22/01/2024,Sim,0,"R$ 6,00",0,Patricia Luz
+267,Gaby Costa,345.678.901-33,21/01/2024,Cidade de Deus,Policial,3,24/01/2024,"R$ 15,00",23/01/2024,Sim,0,"R$ 4,00",0,Luana Mendes
+268,Diego Santos,456.789.012-04,22/01/2024,Elvis,Biografia,3,25/01/2024,"R$ 18,00",30/01/2024,Não,5,"R$ 4,00",20,Helena Souza
+269,Vitoria Silva,234.567.890-22,23/01/2024,Glass Onion,Suspense,2,25/01/2024,"R$ 18,00",25/01/2024,Sim,0,"R$ 5,00",0,Sandra Helena
+270,João Pedro,012.345.678-10,24/01/2024,Lisbela e o Prisioneiro,Romance,3,27/01/2024,"R$ 12,00",26/01/2024,Sim,0,"R$ 3,00",0,Patricia Luz
+271,Léo Almeida,890.123.456-38,25/01/2024,Leave the World Behind,Suspense,2,27/01/2024,"R$ 15,00",01/02/2024,Não,5,"R$ 4,00",20,Luana Mendes
+272,Olivia Oliveira,567.890.123-15,26/01/2024,O Acompanhante,Suspense,3,29/01/2024,"R$ 15,00",28/01/2024,Sim,0,"R$ 4,00",0,Helena Souza
+273,Rute Santos,456.789.012-44,27/01/2024,O Poderoso Chefão,Drama,3,30/01/2024,"R$ 10,00",28/01/2024,Sim,0,"R$ 3,00",0,Sandra Helena
+274,Ana Silva,123.456.789-01,28/01/2024,Cocaine Bear,Comédia,3,31/01/2024,"R$ 15,00",05/02/2024,Não,5,"R$ 4,00",20,Patricia Luz
+275,Zeca Lima,678.901.234-26,29/01/2024,O Iluminado,Terror,3,01/02/2024,"R$ 12,00",31/01/2024,Sim,0,"R$ 4,00",0,Luana Mendes
+276,Lucas Silva,234.567.890-12,30/01/2024,Harry Potter e a Pedra Filosofal,Fantasia,5,04/02/2024,"R$ 10,00",01/02/2024,Sim,0,"R$ 3,00",0,Helena Souza
+277,Xico Mendes,901.234.567-49,31/01/2024,Ferrari,Biografia,3,03/02/2024,"R$ 18,00",08/02/2024,Não,5,"R$ 4,00",20,Sandra Helena
+278,Gisele Rocha,789.012.345-07,01/02/2024,The Whale,Drama,3,04/02/2024,"R$ 18,00",03/02/2024,Sim,0,"R$ 5,00",0,Patricia Luz
+279,Ester Lima,123.456.789-31,02/02/2024,Kung Fu Panda 4,Animação,3,05/02/2024,"R$ 18,00",04/02/2024,Sim,0,"R$ 4,00",0,Luana Mendes
+280,Tatiana Pedro,012.345.678-20,03/02/2024,Tudo em Todo o Lugar ao Mesmo Tempo,Ficção Científica,2,05/02/2024,"R$ 20,00",11/02/2024,Não,6,"R$ 6,00",36,Helena Souza
+281,Sora Oliveira,567.890.123-45,04/02/2024,Madame Web,Ação,3,07/02/2024,"R$ 15,00",06/02/2024,Sim,0,"R$ 4,00",0,Sandra Helena
+282,Isabela Mendes,901.234.567-09,05/02/2024,Hoje Eu Quero Voltar Sozinho,Romance,5,10/02/2024,"R$ 10,00",07/02/2024,Sim,0,"R$ 2,00",0,Patricia Luz
+283,Nicolas Santos,456.789.012-14,06/02/2024,Inception,Ficção Científica,2,08/02/2024,"R$ 25,00",14/02/2024,Não,6,"R$ 5,00",30,Luana Mendes
+284,Mara Mendes,901.234.567-39,07/02/2024,A Substância,Terror,2,09/02/2024,"R$ 25,00",09/02/2024,Sim,0,"R$ 7,00",0,Helena Souza
+285,Bruno Oliveira,234.567.890-02,08/02/2024,Vidas Passadas,Romance,3,11/02/2024,"R$ 18,00",10/02/2024,Sim,0,"R$ 4,00",0,Sandra Helena
+286,Rafaela Almeida,890.123.456-18,09/02/2024,A Haunting in Venice,Suspense,2,11/02/2024,"R$ 18,00",17/02/2024,Não,6,"R$ 4,00",24,Patricia Luz
+287,Zizi Pedro,012.345.678-50,10/02/2024,Toy Story,Animação,5,15/02/2024,"R$ 10,00",12/02/2024,Sim,0,"R$ 2,00",0,Luana Mendes
+288,Gaby Costa,345.678.901-33,11/02/2024,Estrelas Além do Tempo,Biografia,3,14/02/2024,"R$ 15,00",13/02/2024,Sim,0,"R$ 4,00",0,Helena Souza
+289,Henrique Almeida,890.123.456-08,12/02/2024,Duna: Parte 2,Ficção Científica,2,14/02/2024,"R$ 25,00",20/02/2024,Não,6,"R$ 7,00",42,Sandra Helena
+290,Paula Silva,234.567.890-42,13/02/2024,Civil War,Ação,2,15/02/2024,"R$ 20,00",15/02/2024,Sim,0,"R$ 5,00",0,Patricia Luz
+291,Karen Farias,123.456.789-11,14/02/2024,Coringa,Drama,2,16/02/2024,"R$ 22,00",16/02/2024,Sim,0,"R$ 6,00",0,Luana Mendes
+292,Yuri Oliveira,567.890.123-25,15/02/2024,Seven: Os Sete Crimes Capitais,Suspense,3,18/02/2024,"R$ 12,00",22/02/2024,Não,4,"R$ 3,00",12,Helena Souza
+293,Kelly Rocha,789.012.345-37,16/02/2024,The Killer,Suspense,3,19/02/2024,"R$ 18,00",18/02/2024,Sim,0,"R$ 4,00",0,Sandra Helena
+294,Olivia Oliveira,567.890.123-15,17/02/2024,Pobres Criaturas,Drama,2,19/02/2024,"R$ 25,00",19/02/2024,Sim,0,"R$ 7,00",0,Patricia Luz
+295,Elena Costa,567.890.123-05,18/02/2024,The Fall Guy,Ação,3,21/02/2024,"R$ 18,00",25/02/2024,Não,4,"R$ 4,00",16,Luana Mendes
+296,Xico Mendes,901.234.567-49,19/02/2024,Clube da Luta,Drama,3,22/02/2024,"R$ 15,00",21/02/2024,Sim,0,"R$ 4,00",0,Helena Souza
+297,Uriel Farias,123.456.789-21,20/02/2024,John Wick: Chapter 4,Ação,2,22/02/2024,"R$ 22,00",22/02/2024,Sim,0,"R$ 6,00",0,Sandra Helena
+298,Lucas Silva,234.567.890-12,21/02/2024,Killers of the Flower Moon,Drama,2,23/02/2024,"R$ 25,00",28/02/2024,Não,5,"R$ 7,00",35,Patricia Luz
+299,Davi Pedro,012.345.678-30,22/02/2024,O Senhor dos Anéis: As Duas Torres,Fantasia,5,27/02/2024,"R$ 12,00",24/02/2024,Sim,0,"R$ 4,00",0,Luana Mendes
+300,Sora Oliveira,567.890.123-45,23/02/2024,O Senhor dos Anéis,Fantasia,5,28/02/2024,"R$ 15,00",25/02/2024,Sim,0,"R$ 5,00",0,Helena Souza
+301,João Pedro,012.345.678-10,01/03/2024,Django Livre,Faroeste,3,04/03/2024,"R$ 15,00",03/03/2024,Sim,0,"R$ 4,00",0,Sandra Helena
+302,Yuri Oliveira,567.890.123-25,02/03/2024,Mad Max: Estrada da Fúria,Ação,2,04/03/2024,"R$ 20,00",09/03/2024,Não,5,"R$ 5,00",25,Patricia Luz
+303,Elena Costa,567.890.123-05,03/03/2024,Lisbela e o Prisioneiro,Romance,3,06/03/2024,"R$ 12,00",05/03/2024,Sim,0,"R$ 3,00",0,Luana Mendes
+304,Rute Santos,456.789.012-44,04/03/2024,Mission: Impossible - Dead Reckoning,Ação,2,06/03/2024,"R$ 22,00",06/03/2024,Sim,0,"R$ 6,00",0,Helena Souza
+305,Samuel Mendes,901.234.567-19,05/03/2024,Kung Fu Panda 4,Animação,3,08/03/2024,"R$ 18,00",12/03/2024,Não,4,"R$ 4,00",16,Sandra Helena
+306,Gaby Costa,345.678.901-33,06/03/2024,Vidas Passadas,Romance,3,09/03/2024,"R$ 18,00",08/03/2024,Sim,0,"R$ 4,00",0,Patricia Luz
+307,Lucas Silva,234.567.890-12,07/03/2024,Kingdom of the Planet of the Apes,Ficção Científica,2,09/03/2024,"R$ 22,00",14/03/2024,Não,5,"R$ 6,00",30,Luana Mendes
+308,Bruno Oliveira,234.567.890-02,08/03/2024,O Acompanhante,Suspense,3,11/03/2024,"R$ 15,00",10/03/2024,Sim,0,"R$ 4,00",0,Helena Souza
+309,Oton Silva,123.456.789-41,09/03/2024,Toy Story,Animação,5,14/03/2024,"R$ 10,00",11/03/2024,Sim,0,"R$ 2,00",0,Sandra Helena
+310,Beto Almeida,890.123.456-28,10/03/2024,A Baleia,Drama,3,13/03/2024,"R$ 18,00",17/03/2024,Não,4,"R$ 5,00",20,Patricia Luz
+311,Olivia Oliveira,567.890.123-15,11/03/2024,Bacurau,Suspense,3,14/03/2024,"R$ 15,00",13/03/2024,Sim,0,"R$ 4,00",0,Luana Mendes
+312,Henrique Almeida,890.123.456-08,12/03/2024,Matrix,Ação,3,15/03/2024,"R$ 15,00",14/03/2024,Sim,0,"R$ 4,00",0,Helena Souza
+313,Zizi Pedro,012.345.678-50,13/03/2024,A Haunting in Venice,Suspense,2,15/03/2024,"R$ 18,00",20/03/2024,Não,5,"R$ 4,00",20,Sandra Helena
+314,Vitoria Silva,234.567.890-22,14/03/2024,The Fall Guy,Ação,3,17/03/2024,"R$ 18,00",16/03/2024,Sim,0,"R$ 4,00",0,Patricia Luz
+315,Kelly Rocha,789.012.345-37,15/03/2024,Kingdom of the Planet of the Apes,Ficção Científica,2,17/03/2024,"R$ 22,00",22/03/2024,Não,5,"R$ 6,00",30,Luana Mendes
+316,Lucas Silva,234.567.890-12,16/03/2024,The Little Mermaid,Fantasia,3,19/03/2024,"R$ 18,00",18/03/2024,Sim,0,"R$ 4,00",0,Helena Souza
+317,Diego Santos,456.789.012-04,17/03/2024,Cidade de Deus,Policial,3,20/03/2024,"R$ 15,00",24/03/2024,Não,4,"R$ 4,00",16,Sandra Helena
+318,Xico Mendes,901.234.567-49,18/03/2024,A Substância,Terror,2,20/03/2024,"R$ 25,00",20/03/2024,Sim,0,"R$ 7,00",0,Patricia Luz
+319,Ester Lima,123.456.789-31,19/03/2024,O Rei Leão,Animação,3,22/03/2024,"R$ 12,00",21/03/2024,Sim,0,"R$ 3,00",0,Luana Mendes
+320,Rafaela Almeida,890.123.456-18,20/03/2024,Civil War,Ação,2,22/03/2024,"R$ 20,00",27/03/2024,Não,5,"R$ 5,00",25,Helena Souza
+321,Isabela Mendes,901.234.567-09,21/03/2024,Furiosa: A Mad Max Saga,Ação,2,23/03/2024,"R$ 22,00",23/03/2024,Sim,0,"R$ 6,00",0,Sandra Helena
+322,Aline Rocha,789.012.345-27,22/03/2024,Vidas Passadas,Romance,3,25/03/2024,"R$ 18,00",24/03/2024,Sim,0,"R$ 4,00",0,Patricia Luz
+323,Sora Oliveira,567.890.123-45,23/03/2024,Madame Web,Ação,3,26/03/2024,"R$ 15,00",30/03/2024,Não,4,"R$ 4,00",16,Luana Mendes
+324,Karen Farias,123.456.789-11,24/03/2024,Guerra Civil,Ação,2,26/03/2024,"R$ 22,00",26/03/2024,Sim,0,"R$ 6,00",0,Helena Souza
+325,Tatiana Pedro,012.345.678-20,25/03/2024,Inception,Ficção Científica,2,27/03/2024,"R$ 25,00",27/03/2024,Sim,0,"R$ 5,00",0,Sandra Helena
+326,Mara Mendes,901.234.567-39,26/03/2024,Cocaine Bear,Comédia,3,29/03/2024,"R$ 15,00",02/04/2024,Não,4,"R$ 4,00",16,Patricia Luz
+327,Nicolas Santos,456.789.012-14,27/03/2024,O Iluminado,Terror,3,30/03/2024,"R$ 12,00",29/03/2024,Sim,0,"R$ 4,00",0,Luana Mendes
+328,Paula Silva,234.567.890-42,28/03/2024,Glass Onion,Suspense,2,30/03/2024,"R$ 18,00",30/03/2024,Sim,0,"R$ 5,00",0,Helena Souza
+329,Ana Silva,123.456.789-01,29/03/2024,The Killer,Suspense,3,01/04/2024,"R$ 18,00",05/04/2024,Não,4,"R$ 4,00",16,Sandra Helena
+330,Zeca Lima,678.901.234-26,30/03/2024,Pulp Fiction,Policial,3,02/04/2024,"R$ 15,00",01/04/2024,Sim,0,"R$ 4,00",0,Patricia Luz
+331,Olivia Oliveira,567.890.123-15,31/03/2024,Elvis,Biografia,3,03/04/2024,"R$ 18,00",07/04/2024,Não,4,"R$ 4,00",16,Luana Mendes
+332,Gaby Costa,345.678.901-33,01/04/2024,Duna: Parte 2,Ficção Científica,2,03/04/2024,"R$ 25,00",03/04/2024,Sim,0,"R$ 7,00",0,Helena Souza
+333,Zizi Pedro,012.345.678-50,02/04/2024,Fly Me to the Moon,Comédia,3,05/04/2024,"R$ 18,00",04/04/2024,Sim,0,"R$ 4,00",0,Sandra Helena
+334,Henrique Almeida,890.123.456-08,03/04/2024,Seven: Os Sete Crimes Capitais,Suspense,3,06/04/2024,"R$ 12,00",10/04/2024,Não,4,"R$ 3,00",12,Patricia Luz
+335,Uriel Farias,123.456.789-21,04/04/2024,Mission: Impossible - Dead Reckoning,Ação,2,06/04/2024,"R$ 22,00",06/04/2024,Sim,0,"R$ 6,00",0,Luana Mendes
+336,Lucas Silva,234.567.890-12,05/04/2024,The Fall Guy,Ação,3,08/04/2024,"R$ 18,00",12/04/2024,Não,4,"R$ 4,00",16,Helena Souza
+337,Sora Oliveira,567.890.123-45,06/04/2024,Clube da Luta,Drama,3,09/04/2024,"R$ 15,00",08/04/2024,Sim,0,"R$ 4,00",0,Sandra Helena
+338,Elena Costa,567.890.123-05,07/04/2024,Estrelas Além do Tempo,Biografia,3,10/04/2024,"R$ 15,00",09/04/2024,Sim,0,"R$ 4,00",0,Patricia Luz
+339,Xico Mendes,901.234.567-49,08/04/2024,Hoje Eu Quero Voltar Sozinho,Romance,5,13/04/2024,"R$ 10,00",15/04/2024,Não,2,"R$ 2,00",4,Luana Mendes
+340,Davi Pedro,012.345.678-30,09/04/2024,Planeta dos Macacos: O Reinado,Ficção Científica,2,11/04/2024,"R$ 20,00",11/04/2024,Sim,0,"R$ 5,00",0,Helena Souza
+341,Lucas Silva,234.567.890-12,10/04/2024,The Whale,Drama,3,13/04/2024,"R$ 18,00",17/04/2024,Não,4,"R$ 5,00",20,Sandra Helena
+342,Hugo Santos,456.789.012-34,11/04/2024,Killers of the Flower Moon,Drama,2,13/04/2024,"R$ 25,00",13/04/2024,Sim,0,"R$ 7,00",0,Patricia Luz
+343,Bruno Oliveira,234.567.890-02,12/04/2024,Pobres Criaturas,Drama,2,14/04/2024,"R$ 25,00",19/04/2024,Não,5,"R$ 7,00",35,Luana Mendes
+344,Samuel Mendes,901.234.567-19,13/04/2024,O Senhor dos Anéis: As Duas Torres,Fantasia,5,18/04/2024,"R$ 12,00",15/04/2024,Sim,0,"R$ 4,00",0,Helena Souza
+345,Rute Santos,456.789.012-44,14/04/2024,Barbie,Comédia,2,16/04/2024,"R$ 20,00",16/04/2024,Sim,0,"R$ 5,00",0,Sandra Helena
+346,Olivia Oliveira,567.890.123-15,15/04/2024,Bob Marley: One Love,Biografia,3,18/04/2024,"R$ 18,00",22/04/2024,Não,4,"R$ 4,00",16,Patricia Luz
+347,Gaby Costa,345.678.901-33,16/04/2024,Ferrari,Biografia,3,19/04/2024,"R$ 18,00",18/04/2024,Sim,0,"R$ 4,00",0,Luana Mendes
+348,Henrique Almeida,890.123.456-08,17/04/2024,Toy Story,Animação,5,22/04/2024,"R$ 10,00",24/04/2024,Não,2,"R$ 2,00",4,Helena Souza
+349,Uriel Farias,123.456.789-21,18/04/2024,Babylon,Drama,3,21/04/2024,"R$ 20,00",20/04/2024,Sim,0,"R$ 5,00",0,Sandra Helena
+350,Elena Costa,567.890.123-05,19/04/2024,Lisbela e o Prisioneiro,Romance,3,22/04/2024,"R$ 12,00",21/04/2024,Sim,0,"R$ 3,00",0,Patricia Luz
+351,Lucas Silva,234.567.890-12,20/04/2024,Clube da Luta,Drama,3,23/04/2024,"R$ 15,00",22/04/2024,Sim,0,"R$ 4,00",0,Luana Mendes
+352,Sora Oliveira,567.890.123-45,21/04/2024,Django Livre,Faroeste,3,24/04/2024,"R$ 15,00",28/04/2024,Não,4,"R$ 4,00",16,Helena Souza
+353,Gisele Rocha,789.012.345-07,22/04/2024,Lisbela e o Prisioneiro,Romance,3,25/04/2024,"R$ 12,00",24/04/2024,Sim,0,"R$ 3,00",0,Sandra Helena
+354,Gaby Costa,345.678.901-33,23/04/2024,Mad Max: Estrada da Fúria,Ação,2,25/04/2024,"R$ 20,00",25/04/2024,Sim,0,"R$ 5,00",0,Patricia Luz
+355,Zizi Pedro,012.345.678-50,24/04/2024,Vidas Passadas,Romance,3,27/04/2024,"R$ 18,00",01/05/2024,Não,4,"R$ 4,00",16,Luana Mendes
+356,Rafaela Almeida,890.123.456-18,01/05/2024,Furiosa: A Mad Max Saga,Ação,2,03/05/2024,"R$ 22,00",03/05/2024,Sim,0,"R$ 6,00",0,Helena Souza
+357,Bruno Oliveira,234.567.890-02,02/05/2024,Vingadores: Ultimato,Ação,2,04/05/2024,"R$ 25,00",04/05/2024,Sim,0,"R$ 7,00",0,Sandra Helena
+358,Cida Mendes,901.234.567-29,03/05/2024,Hoje Eu Quero Voltar Sozinho,Romance,5,08/05/2024,"R$ 10,00",10/05/2024,Não,2,"R$ 2,00",4,Patricia Luz
+359,Olivia Oliveira,567.890.123-15,04/05/2024,Guerra Civil,Ação,2,06/05/2024,"R$ 22,00",06/05/2024,Sim,0,"R$ 6,00",0,Luana Mendes
+360,Nando Pedro,012.345.678-40,05/05/2024,The Whale,Drama,3,08/05/2024,"R$ 18,00",12/05/2024,Não,4,"R$ 5,00",20,Helena Souza
+361,Henrique Almeida,890.123.456-08,06/05/2024,Toy Story,Animação,5,11/05/2024,"R$ 10,00",08/05/2024,Sim,0,"R$ 2,00",0,Sandra Helena
+362,Vitoria Silva,234.567.890-22,07/05/2024,A Haunting in Venice,Suspense,2,09/05/2024,"R$ 18,00",09/05/2024,Sim,0,"R$ 4,00",0,Patricia Luz
+363,Ana Silva,123.456.789-01,08/05/2024,Kung Fu Panda 4,Animação,3,11/05/2024,"R$ 18,00",15/05/2024,Não,4,"R$ 4,00",16,Luana Mendes
+364,Kelly Rocha,789.012.345-37,09/05/2024,Estrelas Além do Tempo,Biografia,3,12/05/2024,"R$ 15,00",11/05/2024,Sim,0,"R$ 4,00",0,Helena Souza
+365,Karen Farias,123.456.789-11,10/05/2024,O Rei Leão,Animação,3,13/05/2024,"R$ 12,00",17/05/2024,Não,4,"R$ 3,00",12,Sandra Helena
+366,Rute Santos,456.789.012-44,11/05/2024,A Substância,Terror,2,13/05/2024,"R$ 25,00",13/05/2024,Sim,0,"R$ 7,00",0,Patricia Luz
+367,Zeca Lima,678.901.234-26,12/05/2024,Tudo em Todo o Lugar ao Mesmo Tempo,Ficção Científica,2,14/05/2024,"R$ 20,00",14/05/2024,Sim,0,"R$ 6,00",0,Luana Mendes
+368,Elena Costa,567.890.123-05,13/05/2024,Duna: Parte 2,Ficção Científica,2,15/05/2024,"R$ 25,00",20/05/2024,Não,5,"R$ 7,00",35,Helena Souza
+369,Xico Mendes,901.234.567-49,14/05/2024,Civil War,Ação,2,16/05/2024,"R$ 20,00",16/05/2024,Sim,0,"R$ 5,00",0,Sandra Helena
+370,Mariana Costa,345.678.901-13,15/05/2024,The Little Mermaid,Fantasia,3,18/05/2024,"R$ 18,00",22/05/2024,Não,4,"R$ 4,00",16,Patricia Luz
+371,Ester Lima,123.456.789-31,16/05/2024,Glass Onion,Suspense,2,18/05/2024,"R$ 18,00",18/05/2024,Sim,0,"R$ 5,00",0,Luana Mendes
+372,Tatiana Pedro,012.345.678-20,17/05/2024,Cidade de Deus,Policial,3,20/05/2024,"R$ 15,00",19/05/2024,Sim,0,"R$ 4,00",0,Helena Souza
+373,Paula Silva,234.567.890-42,18/05/2024,Furiosa: A Mad Max Saga,Ação,2,20/05/2024,"R$ 22,00",25/05/2024,Não,5,"R$ 6,00",30,Sandra Helena
+374,Olivia Oliveira,567.890.123-15,19/05/2024,Bob Marley: One Love,Biografia,3,22/05/2024,"R$ 18,00",21/05/2024,Sim,0,"R$ 4,00",0,Patricia Luz
+375,Gaby Costa,345.678.901-33,20/05/2024,Vidas Passadas,Romance,3,23/05/2024,"R$ 18,00",27/05/2024,Não,4,"R$ 4,00",16,Luana Mendes
+376,Henrique Almeida,890.123.456-08,01/06/2024,Django Livre,Faroeste,3,04/06/2024,"R$ 15,00",03/06/2024,Sim,0,"R$ 4,00",0,Helena Souza
+377,Zizi Pedro,012.345.678-50,02/06/2024,Lisbela e o Prisioneiro,Romance,3,05/06/2024,"R$ 12,00",09/06/2024,Não,4,"R$ 3,00",12,Sandra Helena
+378,Uriel Farias,123.456.789-21,03/06/2024,Clube da Luta,Drama,3,06/06/2024,"R$ 15,00",05/06/2024,Sim,0,"R$ 4,00",0,Patricia Luz
+379,Lucas Silva,234.567.890-12,04/06/2024,Kingdom of the Planet of the Apes,Ficção Científica,2,06/06/2024,"R$ 22,00",06/06/2024,Sim,0,"R$ 6,00",0,Luana Mendes
+380,Sora Oliveira,567.890.123-45,05/06/2024,Toy Story,Animação,5,10/06/2024,"R$ 10,00",12/06/2024,Não,2,"R$ 2,00",4,Helena Souza
+381,Bruno Oliveira,234.567.890-02,06/06/2024,A Baleia,Drama,3,09/06/2024,"R$ 18,00",08/06/2024,Sim,0,"R$ 5,00",0,Sandra Helena
+382,Hugo Santos,456.789.012-34,07/06/2024,Bacurau,Suspense,3,10/06/2024,"R$ 15,00",09/06/2024,Sim,0,"R$ 4,00",0,Patricia Luz
+383,João Pedro,012.345.678-10,08/06/2024,Matrix,Ação,3,11/06/2024,"R$ 15,00",15/06/2024,Não,4,"R$ 4,00",16,Luana Mendes
+384,Aline Rocha,789.012.345-27,09/06/2024,Leave the World Behind,Suspense,2,11/06/2024,"R$ 15,00",11/06/2024,Sim,0,"R$ 4,00",0,Helena Souza
+385,Vava Almeida,890.123.456-48,10/06/2024,Mad Max: Estrada da Fúria,Ação,2,12/06/2024,"R$ 20,00",12/06/2024,Sim,0,"R$ 5,00",0,Sandra Helena
+386,Samuel Mendes,901.234.567-19,11/06/2024,Ferrari,Biografia,3,14/06/2024,"R$ 18,00",18/06/2024,Não,4,"R$ 4,00",16,Patricia Luz
+387,Gaby Costa,345.678.901-33,12/06/2024,Harry Potter e a Pedra Filosofal,Fantasia,5,17/06/2024,"R$ 10,00",14/06/2024,Sim,0,"R$ 3,00",0,Luana Mendes
+388,Elena Costa,567.890.123-05,13/06/2024,The Whale,Drama,3,16/06/2024,"R$ 18,00",20/06/2024,Não,4,"R$ 5,00",20,Helena Souza
+389,Paula Silva,234.567.890-42,14/06/2024,Kung Fu Panda 4,Animação,3,17/06/2024,"R$ 18,00",16/06/2024,Sim,0,"R$ 4,00",0,Sandra Helena
+390,Olivia Oliveira,567.890.123-15,15/06/2024,Madame Web,Ação,3,18/06/2024,"R$ 15,00",17/06/2024,Sim,0,"R$ 4,00",0,Patricia Luz
+391,Ana Silva,123.456.789-01,16/06/2024,Inception,Ficção Científica,2,18/06/2024,"R$ 25,00",23/06/2024,Não,5,"R$ 5,00",25,Luana Mendes
+392,Mara Mendes,901.234.567-39,17/06/2024,Cocaine Bear,Comédia,3,20/06/2024,"R$ 15,00",19/06/2024,Sim,0,"R$ 4,00",0,Helena Souza
+393,Nicolas Santos,456.789.012-14,18/06/2024,O Iluminado,Terror,3,21/06/2024,"R$ 12,00",20/06/2024,Sim,0,"R$ 4,00",0,Sandra Helena
+394,Xico Mendes,901.234.567-49,19/06/2024,The Killer,Suspense,3,22/06/2024,"R$ 18,00",26/06/2024,Não,4,"R$ 4,00",16,Patricia Luz
+395,Zeca Lima,678.901.234-26,20/06/2024,Estrelas Além do Tempo,Biografia,3,23/06/2024,"R$ 15,00",22/06/2024,Sim,0,"R$ 4,00",0,Luana Mendes
+396,Lucas Silva,234.567.890-12,01/07/2024,Vidas Passadas,Romance,3,04/07/2024,"R$ 18,00",03/07/2024,Sim,0,"R$ 4,00",0,Helena Souza
+397,Sora Oliveira,567.890.123-45,02/07/2024,Lisbela e o Prisioneiro,Romance,3,05/07/2024,"R$ 12,00",09/07/2024,Não,4,"R$ 3,00",12,Sandra Helena
+398,Henrique Almeida,890.123.456-08,03/07/2024,Toy Story,Animação,5,08/07/2024,"R$ 10,00",05/07/2024,Sim,0,"R$ 2,00",0,Patricia Luz
+399,Gaby Costa,345.678.901-33,04/07/2024,Mad Max: Estrada da Fúria,Ação,2,06/07/2024,"R$ 20,00",06/07/2024,Sim,0,"R$ 5,00",0,Luana Mendes
+400,Uriel Farias,123.456.789-21,05/07/2024,Django Livre,Faroeste,3,08/07/2024,"R$ 15,00",12/07/2024,Não,4,"R$ 4,00",16,Helena Souza
+401,João Pedro,012.345.678-10,01/08/2024,Vidas Passadas,Romance,3,04/08/2024,"R$ 18,00",03/08/2024,Sim,0,"R$ 4,00",0,Sandra Helena
+402,Yuri Oliveira,567.890.123-25,02/08/2024,Kingdom of the Planet of the Apes,Ficção Científica,2,04/08/2024,"R$ 22,00",09/08/2024,Não,5,"R$ 6,00",30,Patricia Luz
+403,Elena Costa,567.890.123-05,03/08/2024,Mad Max: Estrada da Fúria,Ação,2,05/08/2024,"R$ 20,00",05/08/2024,Sim,0,"R$ 5,00",0,Luana Mendes
+404,Rute Santos,456.789.012-44,04/08/2024,Lisbela e o Prisioneiro,Romance,3,07/08/2024,"R$ 12,00",11/08/2024,Não,4,"R$ 3,00",12,Helena Souza
+405,Samuel Mendes,901.234.567-19,05/08/2024,Clube da Luta,Drama,3,08/08/2024,"R$ 15,00",07/08/2024,Sim,0,"R$ 4,00",0,Sandra Helena
+406,Gaby Costa,345.678.901-33,06/08/2024,Django Livre,Faroeste,3,09/08/2024,"R$ 15,00",08/08/2024,Sim,0,"R$ 4,00",0,Patricia Luz
+407,Lucas Silva,234.567.890-12,07/08/2024,Toy Story,Animação,5,12/08/2024,"R$ 10,00",14/08/2024,Não,2,"R$ 2,00",4,Luana Mendes
+408,Bruno Oliveira,234.567.890-02,08/08/2024,A Baleia,Drama,3,11/08/2024,"R$ 18,00",10/08/2024,Sim,0,"R$ 5,00",0,Helena Souza
+409,Oton Silva,123.456.789-41,09/08/2024,Bob Marley: One Love,Biografia,3,12/08/2024,"R$ 18,00",11/08/2024,Sim,0,"R$ 4,00",0,Sandra Helena
+410,Beto Almeida,890.123.456-28,10/08/2024,Furiosa: A Mad Max Saga,Ação,2,12/08/2024,"R$ 22,00",17/08/2024,Não,5,"R$ 6,00",30,Patricia Luz
+411,Olivia Oliveira,567.890.123-15,11/08/2024,O Rei Leão,Animação,3,14/08/2024,"R$ 12,00",13/08/2024,Sim,0,"R$ 3,00",0,Luana Mendes
+412,Henrique Almeida,890.123.456-08,12/08/2024,Guerra Civil,Ação,2,14/08/2024,"R$ 22,00",14/08/2024,Sim,0,"R$ 6,00",0,Helena Souza
+413,Zizi Pedro,012.345.678-50,13/08/2024,The Little Mermaid,Fantasia,3,16/08/2024,"R$ 18,00",20/08/2024,Não,4,"R$ 4,00",16,Sandra Helena
+414,Vitoria Silva,234.567.890-22,14/08/2024,Toy Story,Animação,5,19/08/2024,"R$ 10,00",16/08/2024,Sim,0,"R$ 2,00",0,Patricia Luz
+415,Kelly Rocha,789.012.345-37,15/08/2024,Kingdom of the Planet of the Apes,Ficção Científica,2,17/08/2024,"R$ 22,00",22/08/2024,Não,5,"R$ 6,00",30,Luana Mendes
+416,Lucas Silva,234.567.890-12,16/08/2024,Vidas Passadas,Romance,3,19/08/2024,"R$ 18,00",18/08/2024,Sim,0,"R$ 4,00",0,Helena Souza
+417,Diego Santos,456.789.012-04,17/08/2024,Cidade de Deus,Policial,3,20/08/2024,"R$ 15,00",19/08/2024,Sim,0,"R$ 4,00",0,Sandra Helena
+418,Xico Mendes,901.234.567-49,18/08/2024,A Substância,Terror,2,20/08/2024,"R$ 25,00",25/08/2024,Não,5,"R$ 7,00",35,Patricia Luz
+419,Ester Lima,123.456.789-31,19/08/2024,Spider-Man: Across the Spider-Verse,Animação,2,21/08/2024,"R$ 20,00",21/08/2024,Sim,0,"R$ 5,00",0,Luana Mendes
+420,Rafaela Almeida,890.123.456-18,20/08/2024,Glass Onion,Suspense,2,22/08/2024,"R$ 18,00",22/08/2024,Sim,0,"R$ 5,00",0,Helena Souza
+421,Isabela Mendes,901.234.567-09,01/09/2024,O Poderoso Chefão,Drama,3,04/09/2024,"R$ 10,00",03/09/2024,Sim,0,"R$ 3,00",0,Sandra Helena
+422,Aline Rocha,789.012.345-27,02/09/2024,O Acompanhante,Suspense,3,05/09/2024,"R$ 15,00",04/09/2024,Sim,0,"R$ 4,00",0,Patricia Luz
+423,Sora Oliveira,567.890.123-45,03/09/2024,O Iluminado,Terror,3,06/09/2024,"R$ 12,00",05/09/2024,Sim,0,"R$ 4,00",0,Luana Mendes
+424,Karen Farias,123.456.789-11,04/09/2024,The Whale,Drama,3,07/09/2024,"R$ 18,00",11/09/2024,Não,4,"R$ 5,00",20,Helena Souza
+425,Tatiana Pedro,012.345.678-20,05/09/2024,Kung Fu Panda 4,Animação,3,08/09/2024,"R$ 18,00",07/09/2024,Sim,0,"R$ 4,00",0,Sandra Helena
+426,Mara Mendes,901.234.567-39,06/09/2024,Tudo em Todo o Lugar ao Mesmo Tempo,Ficção Científica,2,08/09/2024,"R$ 20,00",13/09/2024,Não,5,"R$ 6,00",30,Patricia Luz
+427,Nicolas Santos,456.789.012-14,07/09/2024,Madame Web,Ação,3,10/09/2024,"R$ 15,00",09/09/2024,Sim,0,"R$ 4,00",0,Luana Mendes
+428,Paula Silva,234.567.890-42,08/09/2024,Hoje Eu Quero Voltar Sozinho,Romance,5,13/09/2024,"R$ 10,00",15/09/2024,Não,2,"R$ 2,00",4,Helena Souza
+429,Ana Silva,123.456.789-01,09/09/2024,Inception,Ficção Científica,2,11/09/2024,"R$ 25,00",11/09/2024,Sim,0,"R$ 5,00",0,Sandra Helena
+430,Zeca Lima,678.901.234-26,10/09/2024,A Haunting in Venice,Suspense,2,12/09/2024,"R$ 18,00",17/09/2024,Não,5,"R$ 4,00",20,Patricia Luz
+431,Olivia Oliveira,567.890.123-15,11/09/2024,O Senhor dos Anéis,Fantasia,5,16/09/2024,"R$ 15,00",13/09/2024,Sim,0,"R$ 5,00",0,Luana Mendes
+432,Gaby Costa,345.678.901-33,12/09/2024,Civil War,Ação,2,14/09/2024,"R$ 20,00",14/09/2024,Sim,0,"R$ 5,00",0,Helena Souza
+433,Zizi Pedro,012.345.678-50,13/09/2024,Estrelas Além do Tempo,Biografia,3,16/09/2024,"R$ 15,00",20/09/2024,Não,4,"R$ 4,00",16,Sandra Helena
+434,Henrique Almeida,890.123.456-08,14/09/2024,Duna: Parte 2,Ficção Científica,2,16/09/2024,"R$ 25,00",16/09/2024,Sim,0,"R$ 7,00",0,Patricia Luz
+435,Uriel Farias,123.456.789-21,15/09/2024,Cães de Aluguel,Policial,5,20/09/2024,"R$ 12,00",22/09/2024,Não,2,"R$ 3,00",6,Luana Mendes
+436,Lucas Silva,234.567.890-12,16/09/2024,Wish,Animação,3,19/09/2024,"R$ 18,00",18/09/2024,Sim,0,"R$ 4,00",0,Helena Souza
+437,Sora Oliveira,567.890.123-45,17/09/2024,Bacurau,Suspense,3,20/09/2024,"R$ 15,00",24/09/2024,Não,4,"R$ 4,00",16,Sandra Helena
+438,Elena Costa,567.890.123-05,18/09/2024,Assassinato no Expresso do Oriente,Suspense,3,21/09/2024,"R$ 12,00",20/09/2024,Sim,0,"R$ 3,00",0,Patricia Luz
+439,Xico Mendes,901.234.567-49,19/09/2024,Fly Me to the Moon,Comédia,3,22/09/2024,"R$ 18,00",26/09/2024,Não,4,"R$ 4,00",16,Luana Mendes
+440,Davi Pedro,012.345.678-30,20/09/2024,Planeta dos Macacos: O Reinado,Ficção Científica,2,22/09/2024,"R$ 20,00",22/09/2024,Sim,0,"R$ 5,00",0,Helena Souza
+441,Lucas Silva,234.567.890-12,01/10/2024,The Batman,Ação,2,03/10/2024,"R$ 20,00",03/10/2024,Sim,0,"R$ 5,00",0,Sandra Helena
+442,Hugo Santos,456.789.012-34,02/10/2024,Killers of the Flower Moon,Drama,2,04/10/2024,"R$ 25,00",04/10/2024,Sim,0,"R$ 7,00",0,Patricia Luz
+443,Bruno Oliveira,234.567.890-02,03/10/2024,O Senhor dos Anéis: As Duas Torres,Fantasia,5,08/10/2024,"R$ 12,00",10/10/2024,Não,2,"R$ 4,00",8,Luana Mendes
+444,Samuel Mendes,901.234.567-19,04/10/2024,Pobres Criaturas,Drama,2,06/10/2024,"R$ 25,00",06/10/2024,Sim,0,"R$ 7,00",0,Helena Souza
+445,Rute Santos,456.789.012-44,05/10/2024,Beau Tem Medo,Drama,3,08/10/2024,"R$ 20,00",12/10/2024,Não,4,"R$ 6,00",24,Sandra Helena
+446,Olivia Oliveira,567.890.123-15,06/10/2024,The Fall Guy,Ação,3,09/10/2024,"R$ 18,00",08/10/2024,Sim,0,"R$ 4,00",0,Patricia Luz
+447,Gaby Costa,345.678.901-33,07/10/2024,Cocaine Bear,Comédia,3,10/10/2024,"R$ 15,00",14/10/2024,Não,4,"R$ 4,00",16,Luana Mendes
+448,Henrique Almeida,890.123.456-08,08/10/2024,Coringa,Drama,2,10/10/2024,"R$ 22,00",10/10/2024,Sim,0,"R$ 6,00",0,Helena Souza
+449,Uriel Farias,123.456.789-21,09/10/2024,Seven: Os Sete Crimes Capitais,Suspense,3,12/10/2024,"R$ 12,00",16/10/2024,Não,4,"R$ 3,00",12,Sandra Helena
+450,Elena Costa,567.890.123-05,10/10/2024,The Killer,Suspense,3,13/10/2024,"R$ 18,00",12/10/2024,Sim,0,"R$ 4,00",0,Patricia Luz
+451,Lucas Silva,234.567.890-12,15/10/2024,Estrelas Além do Tempo,Biografia,3,18/10/2024,"R$ 15,00",17/10/2024,Sim,0,"R$ 4,00",0,Luana Mendes
+452,Sora Oliveira,567.890.123-45,16/10/2024,O Iluminado,Terror,3,19/10/2024,"R$ 12,00",23/10/2024,Não,4,"R$ 4,00",16,Helena Souza
+453,Henrique Almeida,890.123.456-08,17/10/2024,Assassinato no Expresso do Oriente,Suspense,3,20/10/2024,"R$ 12,00",19/10/2024,Sim,0,"R$ 3,00",0,Sandra Helena
+454,Gaby Costa,345.678.901-33,18/10/2024,Fly Me to the Moon,Comédia,3,21/10/2024,"R$ 18,00",20/10/2024,Sim,0,"R$ 4,00",0,Patricia Luz
+455,Zizi Pedro,012.345.678-50,19/10/2024,The Whale,Drama,3,22/10/2024,"R$ 18,00",26/10/2024,Não,4,"R$ 5,00",20,Luana Mendes
+456,Bruno Oliveira,234.567.890-02,20/10/2024,Planeta dos Macacos: O Reinado,Ficção Científica,2,22/10/2024,"R$ 20,00",22/10/2024,Sim,0,"R$ 5,00",0,Helena Souza
+457,Olivia Oliveira,567.890.123-15,21/10/2024,The Batman,Ação,2,23/10/2024,"R$ 20,00",23/10/2024,Sim,0,"R$ 5,00",0,Sandra Helena
+458,Cida Mendes,901.234.567-29,22/10/2024,Killers of the Flower Moon,Drama,2,24/10/2024,"R$ 25,00",29/10/2024,Não,5,"R$ 7,00",35,Patricia Luz
+459,Paula Silva,234.567.890-42,23/10/2024,O Senhor dos Anéis: As Duas Torres,Fantasia,5,28/10/2024,"R$ 12,00",25/10/2024,Sim,0,"R$ 4,00",0,Luana Mendes
+460,Elena Costa,567.890.123-05,24/10/2024,Pobres Criaturas,Drama,2,26/10/2024,"R$ 25,00",31/10/2024,Não,5,"R$ 7,00",35,Helena Souza
+461,João Pedro,012.345.678-10,01/11/2024,Beau Tem Medo,Drama,3,04/11/2024,"R$ 20,00",03/11/2024,Sim,0,"R$ 6,00",0,Sandra Helena
+462,Vitoria Silva,234.567.890-22,02/11/2024,The Fall Guy,Ação,3,05/11/2024,"R$ 18,00",09/11/2024,Não,4,"R$ 4,00",16,Patricia Luz
+463,Ana Silva,123.456.789-01,03/11/2024,Cocaine Bear,Comédia,3,06/11/2024,"R$ 15,00",05/11/2024,Sim,0,"R$ 4,00",0,Luana Mendes
+464,Kelly Rocha,789.012.345-37,04/11/2024,Coringa,Drama,2,06/11/2024,"R$ 22,00",11/11/2024,Não,5,"R$ 6,00",30,Helena Souza
+465,Karen Farias,123.456.789-11,05/11/2024,Seven: Os Sete Crimes Capitais,Suspense,3,08/11/2024,"R$ 12,00",07/11/2024,Sim,0,"R$ 3,00",0,Sandra Helena
+466,Rute Santos,456.789.012-44,06/11/2024,The Killer,Suspense,3,09/11/2024,"R$ 18,00",13/11/2024,Não,4,"R$ 4,00",16,Patricia Luz
+467,Zeca Lima,678.901.234-26,07/11/2024,Estrelas Além do Tempo,Biografia,3,10/11/2024,"R$ 15,00",09/11/2024,Sim,0,"R$ 4,00",0,Luana Mendes
+468,Elena Costa,567.890.123-05,08/11/2024,O Iluminado,Terror,3,11/11/2024,"R$ 12,00",15/11/2024,Não,4,"R$ 4,00",16,Helena Souza
+469,Xico Mendes,901.234.567-49,09/11/2024,Assassinato no Expresso do Oriente,Suspense,3,12/11/2024,"R$ 12,00",11/11/2024,Sim,0,"R$ 3,00",0,Sandra Helena
+470,Mariana Costa,345.678.901-13,10/11/2024,Fly Me to the Moon,Comédia,3,13/11/2024,"R$ 18,00",17/11/2024,Não,4,"R$ 4,00",16,Patricia Luz
+471,Ester Lima,123.456.789-31,11/11/2024,The Whale,Drama,3,14/11/2024,"R$ 18,00",13/11/2024,Sim,0,"R$ 5,00",0,Luana Mendes
+472,Tatiana Pedro,012.345.678-20,12/11/2024,Planeta dos Macacos: O Reinado,Ficção Científica,2,14/11/2024,"R$ 20,00",19/11/2024,Não,5,"R$ 5,00",25,Helena Souza
+473,Paula Silva,234.567.890-42,13/11/2024,The Batman,Ação,2,15/11/2024,"R$ 20,00",15/11/2024,Sim,0,"R$ 5,00",0,Sandra Helena
+474,Olivia Oliveira,567.890.123-15,14/11/2024,Killers of the Flower Moon,Drama,2,16/11/2024,"R$ 25,00",21/11/2024,Não,5,"R$ 7,00",35,Patricia Luz
+475,Gaby Costa,345.678.901-33,15/11/2024,O Senhor dos Anéis: As Duas Torres,Fantasia,5,20/11/2024,"R$ 12,00",17/11/2024,Sim,0,"R$ 4,00",0,Luana Mendes
+476,Henrique Almeida,890.123.456-08,01/12/2024,Pobres Criaturas,Drama,2,03/12/2024,"R$ 25,00",03/12/2024,Sim,0,"R$ 7,00",0,Helena Souza
+477,Zizi Pedro,012.345.678-50,02/12/2024,Beau Tem Medo,Drama,3,05/12/2024,"R$ 20,00",09/12/2024,Não,4,"R$ 6,00",24,Sandra Helena
+478,Uriel Farias,123.456.789-21,03/12/2024,The Fall Guy,Ação,3,06/12/2024,"R$ 18,00",05/12/2024,Sim,0,"R$ 4,00",0,Patricia Luz
+479,Lucas Silva,234.567.890-12,04/12/2024,Cocaine Bear,Comédia,3,07/12/2024,"R$ 15,00",11/12/2024,Não,4,"R$ 4,00",16,Luana Mendes
+480,Sora Oliveira,567.890.123-45,05/12/2024,Coringa,Drama,2,07/12/2024,"R$ 22,00",07/12/2024,Sim,0,"R$ 6,00",0,Helena Souza
+481,Bruno Oliveira,234.567.890-02,06/12/2024,Seven: Os Sete Crimes Capitais,Suspense,3,09/12/2024,"R$ 12,00",13/12/2024,Não,4,"R$ 3,00",12,Sandra Helena
+482,Hugo Santos,456.789.012-34,07/12/2024,The Killer,Suspense,3,10/12/2024,"R$ 18,00",09/12/2024,Sim,0,"R$ 4,00",0,Patricia Luz
+483,João Pedro,012.345.678-10,08/12/2024,Estrelas Além do Tempo,Biografia,3,11/12/2024,"R$ 15,00",15/12/2024,Não,4,"R$ 4,00",16,Luana Mendes
+484,Aline Rocha,789.012.345-27,09/12/2024,O Iluminado,Terror,3,12/12/2024,"R$ 12,00",11/12/2024,Sim,0,"R$ 4,00",0,Helena Souza
+485,Vava Almeida,890.123.456-48,10/12/2024,Assassinato no Expresso do Oriente,Suspense,3,13/12/2024,"R$ 12,00",17/12/2024,Não,4,"R$ 3,00",12,Sandra Helena
+486,Samuel Mendes,901.234.567-19,11/12/2024,Fly Me to the Moon,Comédia,3,14/12/2024,"R$ 18,00",13/12/2024,Sim,0,"R$ 4,00",0,Patricia Luz
+487,Gaby Costa,345.678.901-33,12/12/2024,The Whale,Drama,3,15/12/2024,"R$ 18,00",19/12/2024,Não,4,"R$ 5,00",20,Luana Mendes
+488,Elena Costa,567.890.123-05,13/12/2024,Planeta dos Macacos: O Reinado,Ficção Científica,2,15/12/2024,"R$ 20,00",15/12/2024,Sim,0,"R$ 5,00",0,Helena Souza
+489,Paula Silva,234.567.890-42,14/12/2024,The Batman,Ação,2,16/12/2024,"R$ 20,00",21/12/2024,Não,5,"R$ 5,00",25,Sandra Helena
+490,Olivia Oliveira,567.890.123-15,15/12/2024,Killers of the Flower Moon,Drama,2,17/12/2024,"R$ 25,00",17/12/2024,Sim,0,"R$ 7,00",0,Patricia Luz
+491,Ana Silva,123.456.789-01,16/12/2024,O Senhor dos Anéis: As Duas Torres,Fantasia,5,21/12/2024,"R$ 12,00",23/12/2024,Não,2,"R$ 4,00",8,Luana Mendes
+492,Mara Mendes,901.234.567-39,17/12/2024,Pobres Criaturas,Drama,2,19/12/2024,"R$ 25,00",19/12/2024,Sim,0,"R$ 7,00",0,Helena Souza
+493,Nicolas Santos,456.789.012-14,18/12/2024,Beau Tem Medo,Drama,3,21/12/2024,"R$ 20,00",25/12/2024,Não,4,"R$ 6,00",24,Sandra Helena
+494,Xico Mendes,901.234.567-49,19/12/2024,The Fall Guy,Ação,3,22/12/2024,"R$ 18,00",21/12/2024,Sim,0,"R$ 4,00",0,Patricia Luz
+495,Zeca Lima,678.901.234-26,20/12/2024,Cocaine Bear,Comédia,3,23/12/2024,"R$ 15,00",27/12/2024,Não,4,"R$ 4,00",16,Luana Mendes
+496,Lucas Silva,234.567.890-12,21/12/2024,Coringa,Drama,2,23/12/2024,"R$ 22,00",23/12/2024,Sim,0,"R$ 6,00",0,Helena Souza
+497,Sora Oliveira,567.890.123-45,22/12/2024,Seven: Os Sete Crimes Capitais,Suspense,3,25/12/2024,"R$ 12,00",29/12/2024,Não,4,"R$ 3,00",12,Sandra Helena
+498,Henrique Almeida,890.123.456-08,23/12/2024,The Killer,Suspense,3,26/12/2024,"R$ 18,00",25/12/2024,Sim,0,"R$ 4,00",0,Patricia Luz
+499,Gaby Costa,345.678.901-33,24/12/2024,Estrelas Além do Tempo,Biografia,3,27/12/2024,"R$ 15,00",31/12/2024,Não,4,"R$ 4,00",16,Luana Mendes
+500,Uriel Farias,123.456.789-21,25/12/2024,O Iluminado,Terror,3,28/12/2024,"R$ 12,00",27/12/2024,Sim,0,"R$ 4,00",0,Helena Souza

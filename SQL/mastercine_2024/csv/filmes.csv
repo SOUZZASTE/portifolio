@@ -1,0 +1,201 @@
+id,titulo,direcao,genero,categoria,valor_aluguel,dias_locacao,valor_multa
+1,Inception,Christopher Nolan,Ficção Científica,Lançamento,25,2,5
+2,O Poderoso Chefão,Francis Ford Coppola,Drama,Clássico,10,3,3
+3,Matrix,Lana Wachowski,Ação,Favoritos,15,3,4
+4,Parasita,Bong Joon-ho,Suspense,Premiados,20,2,5
+5,O Rei Leão,Roger Allers,Animação,Infantil,12,3,3
+6,Coringa,Todd Phillips,Drama,Lançamento,22,2,6
+7,Vingadores: Ultimato,Anthony Russo,Ação,Blockbuster,25,2,7
+8,Pulp Fiction,Quentin Tarantino,Policial,Cult,15,3,4
+9,Interestelar,Christopher Nolan,Ficção Científica,Favoritos,18,2,5
+10,Toy Story,John Lasseter,Animação,Infantil,10,5,2
+11,O Iluminado,Stanley Kubrick,Terror,Clássico,12,3,4
+12,Mad Max: Estrada da Fúria,George Miller,Ação,Lançamento,20,2,5
+13,Cidade de Deus,Fernando Meirelles,Policial,Nacional,15,3,4
+14,A Origem,Christopher Nolan,Ficção Científica,Premiados,18,2,5
+15,Jurassic Park,Steven Spielberg,Aventura,Clássico,10,3,3
+16,Gladiador,Ridley Scott,Ação,Épico,15,3,4
+17,O Silêncio dos Inocentes,Jonathan Demme,Suspense,Clássico,12,3,4
+18,Clube da Luta,David Fincher,Drama,Cult,15,3,4
+19,O Auto da Compadecida,Guel Arraes,Comédia,Nacional,10,5,2
+20,Duna,Denis Villeneuve,Ficção Científica,Lançamento,25,2,7
+21,Shrek,Andrew Adamson,Animação,Infantil,10,5,2
+22,Batman: O Cavaleiro das Trevas,Christopher Nolan,Ação,Blockbuster,18,2,5
+23,Bastardos Inglórios,Quentin Tarantino,Guerra,Cult,15,3,4
+24,O Lobo de Wall Street,Martin Scorsese,Biografia,Favoritos,18,3,5
+25,Seven: Os Sete Crimes Capitais,David Fincher,Suspense,Clássico,12,3,4
+26,A Lista de Schindler,Steven Spielberg,Drama,Premiados,15,3,4
+27,De Volta para o Futuro,Robert Zemeckis,Aventura,Clássico,10,5,2
+28,Top Gun: Maverick,Joseph Kosinski,Ação,Lançamento,25,2,7
+29,Ratatouille,Brad Bird,Animação,Infantil,12,3,3
+30,O Exterminador do Futuro 2,James Cameron,Ação,Clássico,10,3,3
+31,Star Wars: Ep. IV,George Lucas,Fantasia,Clássico,10,5,2
+32,Green Book,Peter Farrelly,Drama,Premiados,18,3,5
+33,Hereditário,Ari Aster,Terror,Cult,20,2,6
+34,Fragmentado,M. Night Shyamalan,Suspense,Favoritos,15,3,4
+35,Como Treinar o Seu Dragão,Dean DeBlois,Animação,Infantil,12,3,3
+36,John Wick,Chad Stahelski,Ação,Lançamento,22,2,6
+37,La La Land,Damien Chazelle,Musical,Romance,15,3,4
+38,O Chamado,Gore Verbinski,Terror,Clássico,10,3,3
+39,Blade Runner 2049,Denis Villeneuve,Ficção Científica,Cult,20,2,5
+40,Minions,Kyle Balda,Animação,Infantil,12,5,2
+41,Django Livre,Quentin Tarantino,Faroeste,Favoritos,18,3,4
+42,Titanic,James Cameron,Romance,Clássico,10,3,3
+43,Avatar: O Caminho da Água,James Cameron,Ficção Científica,Lançamento,25,2,7
+44,O Show de Truman,Peter Weir,Drama,Cult,12,3,4
+45,Moana,Ron Clements,Animação,Infantil,15,3,3
+46,Garota Exemplar,David Fincher,Suspense,Favoritos,15,3,4
+47,1917,Sam Mendes,Guerra,Premiados,20,2,6
+48,Scarface,Brian De Palma,Policial,Clássico,12,3,4
+49,Up: Altas Aventuras,Pete Docter,Animação,Infantil,10,5,2
+50,Elvis,Baz Luhrmann,Biografia,Lançamento,22,2,6
+51,Oppenheimer,Christopher Nolan,Biografia,Lançamento,25,2,7
+52,Barbie,Greta Gerwig,Comédia,Lançamento,22,2,6
+53,Tropa de Elite,José Padilha,Policial,Nacional,15,3,4
+54,Psicose,Alfred Hitchcock,Terror,Clássico,10,5,3
+55,Whiplash,Damien Chazelle,Drama,Premiados,18,3,5
+56,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos,Animação,Blockbuster,25,2,6
+57,O Labirinto do Fauno,Guillermo del Toro,Fantasia,Cult,15,3,4
+58,Cléo das 5 às 7,Agnès Varda,Drama,Cult,12,5,3
+59,Coco (Viva a Vida é uma Festa),Lee Unkrich,Animação,Infantil,15,3,3
+60,Super Mario Bros. O Filme,Aaron Horvath,Animação,Lançamento,20,2,5
+61,Midsommar,Ari Aster,Terror,Cult,18,3,5
+62,O Grande Hotel Budapeste,Wes Anderson,Comédia,Favoritos,15,3,4
+63,E.T. O Extraterrestre,Steven Spielberg,Ficção Científica,Clássico,10,5,2
+64,Tudo em Todo o Lugar ao Mesmo Tempo,Daniel Kwan,Ação,Premiados,22,2,6
+65,Forrest Gump,Robert Zemeckis,Drama,Clássico,10,3,3
+66,O Regresso,Alejandro G. Iñárritu,Aventura,Premiados,18,2,5
+67,Deadpool,Tim Miller,Ação,Blockbuster,15,3,4
+68,Bacurau,Kleber Mendonça Filho,Suspense,Nacional,15,3,4
+69,O Sexto Sentido,M. Night Shyamalan,Suspense,Clássico,10,3,3
+70,Encanto,Byron Howard,Animação,Infantil,12,3,3
+71,Soul,Pete Docter,Animação,Favoritos,15,3,4
+72,Um Sonho de Liberdade,Frank Darabont,Drama,Favoritos,12,5,3
+73,Os Infiltrados,Martin Scorsese,Policial,Premiados,15,3,4
+74,Corra!,Jordan Peele,Terror,Favoritos,18,2,5
+75,Os Incríveis,Brad Bird,Animação,Infantil,10,5,2
+76,Kill Bill: Vol. 1,Quentin Tarantino,Ação,Cult,15,3,4
+77,O Menino e a Garça,Hayao Miyazaki,Animação,Lançamento,25,2,7
+78,Drive,Nicolas Winding Refn,Ação,Cult,15,3,4
+79,Beetlejuice 2,Tim Burton,Comédia,Lançamento,25,2,6
+80,Pânico (2022),Matt Bettinelli-Olpin,Terror,Favoritos,18,2,5
+81,A Viagem de Chihiro,Hayao Miyazaki,Animação,Clássico,12,5,3
+82,A Baleia,Darren Aronofsky,Drama,Premiados,20,2,6
+83,V de Vingança,James McTeigue,Ação,Cult,12,3,4
+84,Procurando Nemo,Andrew Stanton,Animação,Infantil,10,5,2
+85,X: A Marca da Morte,Ti West,Terror,Cult,18,2,5
+86,Indiana Jones: Relíquia do Destino,James Mangold,Aventura,Lançamento,22,2,6
+87,Central do Brasil,Walter Salles,Drama,Nacional,12,5,3
+88,Noites Brutais,Zach Cregger,Terror,Lançamento,20,2,5
+89,Guardiões da Galáxia Vol. 3,James Gunn,Ação,Blockbuster,25,2,6
+90,Zootopia,Byron Howard,Animação,Infantil,12,3,3
+91,Bonequinha de Luxo,Blake Edwards,Romance,Clássico,10,5,3
+92,Nós,Jordan Peele,Terror,Favoritos,15,3,4
+93,Assassinos da Lua das Flores,Martin Scorsese,Policial,Premiados,25,2,7
+94,Moana 2,David G. Derrick Jr.,Animação,Lançamento,25,2,7
+95,Divertida Mente 2,Kelsey Mann,Animação,Lançamento,25,2,7
+96,O Homem do Norte,Robert Eggers,Ação,Favoritos,18,3,5
+97,A Bruxa,Robert Eggers,Terror,Cult,15,3,4
+98,O Fabuloso Destino de Amélie Poulain,Jean-Pierre Jeunet,Romance,Cult,12,5,3
+99,Cantando na Chuva,Gene Kelly,Musical,Clássico,10,5,2
+100,Wonka,Paul King,Aventura,Lançamento,22,2,6
+101,O Menino do Pijama Listrado,Mark Herman,Drama,Favoritos,15,3,4
+102,Missão Impossível: Acerto de Contas,Christopher McQuarrie,Ação,Blockbuster,25,2,7
+103,Sociedade da Neve,J.A. Bayona,Drama,Premiados,20,2,6
+104,Como se Fosse a Primeira Vez,Peter Segal,Comédia Romântica,Clássico,10,5,2
+105,Pobres Criaturas,Yorgos Lanthimos,Fantasia,Premiados,25,2,7
+106,O Farol,Robert Eggers,Terror,Cult,18,3,5
+107,Sing 2,Garth Jennings,Animação,Infantil,12,3,3
+108,Django Livre,Quentin Tarantino,Faroeste,Favoritos,18,3,4
+109,Minari,Lee Isaac Chung,Drama,Premiados,15,3,4
+110,John Wick 4: Baba Yaga,Chad Stahelski,Ação,Lançamento,25,2,6
+111,Brilho Eterno de uma Mente sem Lembranças,Michel Gondry,Romance,Cult,15,3,4
+112,A Pequena Sereia (Live Action),Rob Marshall,Fantasia,Infantil,22,2,6
+113,Ford vs Ferrari,James Mangold,Ação,Favoritos,18,3,5
+114,Soul,Pete Docter,Animação,Premiados,15,3,4
+115,Clube da Luta,David Fincher,Drama,Cult,12,5,3
+116,Pantera Negra: Wakanda para Sempre,Ryan Coogler,Ação,Blockbuster,22,2,6
+117,O Menu,Mark Mylod,Suspense,Favoritos,20,2,5
+118,Indiana Jones e os Caçadores da Arca Perdida,Steven Spielberg,Aventura,Clássico,10,5,2
+119,Beau Tem Medo,Ari Aster,Drama,Cult,18,3,5
+120,Luca,Enrico Casarosa,Animação,Infantil,12,3,3
+121,Asteroid City,Wes Anderson,Comédia,Cult,20,2,5
+122,Os Bons Companheiros,Martin Scorsese,Policial,Clássico,12,3,4
+123,O Protocolo de Auschwitz,Peter Bebjak,Guerra,Documentário,15,3,4
+124,Napoleão,Ridley Scott,Biografia,Lançamento,25,2,7
+125,Elementos,Peter Sohn,Animação,Infantil,22,2,6
+126,Oldboy,Park Chan-wook,Suspense,Cult,15,3,5
+127,The Batman,Matt Reeves,Ação,Blockbuster,20,2,6
+128,Para Todos os Garotos que Já Amei,Susan Johnson,Romance,Favoritos,12,3,3
+129,O Chamado,Gore Verbinski,Terror,Clássico,10,3,3
+130,Anatomia de uma Queda,Justine Triet,Suspense,Premiados,22,2,6
+131,Os Fantasmas se Divertem,Tim Burton,Comédia,Clássico,10,5,2
+132,Talk to Me (Fale Comigo),Danny Philippou,Terror,Favoritos,20,2,6
+133,Lisbela e o Prisioneiro,Guel Arraes,Comédia Romântica,Nacional,10,5,2
+134,Scream VI,Matt Bettinelli-Olpin,Terror,Favoritos,22,2,6
+135,O Menino e o Mundo,Alê Abreu,Animação,Nacional,15,3,4
+136,Gato de Botas 2: O Último Pedido,Joel Crawford,Animação,Infantil,18,3,4
+137,Tenet,Christopher Nolan,Ficção Científica,Favoritos,18,3,5
+138,A Sociedade da Luta,David Fincher,Drama,Cult,15,3,4
+139,Gran Turismo,Neill Blomkamp,Ação,Lançamento,22,2,6
+140,Past Lives (Vidas Passadas),Celine Song,Romance,Premiados,20,2,5
+141,Dungeons & Dragons,Jonathan Goldstein,Fantasia,Aventura,20,2,5
+142,Psicopata Americano,Mary Harron,Suspense,Cult,12,5,3
+143,Toy Story 4,Josh Cooley,Animação,Infantil,15,3,3
+144,Top Gun: Maverick,Joseph Kosinski,Ação,Blockbuster,25,2,7
+145,Parasita,Bong Joon-ho,Drama,Premiados,18,3,5
+146,Marte Um,Gabriel Martins,Drama,Nacional,15,3,4
+147,A Morte do Demônio: A Ascensão,Lee Cronin,Terror,Lançamento,22,2,6
+148,O Labirinto do Fauno,Guillermo del Toro,Fantasia,Cult,12,3,4
+149,A Viagem de Chihiro,Hayao Miyazaki,Animação,Clássico,12,5,3
+150,Bob Marley: One Love,Reinaldo Marcus Green,Biografia,Lançamento,25,2,7
+151,O Estagiário,Nancy Meyers,Comédia Romântica,Favoritos,15,3,3
+152,Duna: Parte 2,Denis Villeneuve,Ficção Científica,Lançamento,25,2,7
+153,O Pianista,Roman Polanski,Drama,Premiados,15,3,4
+154,Deadpool & Wolverine,Shawn Levy,Ação,Lançamento,25,2,7
+155,Moana: Um Mar de Aventuras,Ron Clements,Animação,Infantil,12,5,2
+156,A Bruxa de Blair,Daniel Myrick,Terror,Clássico,10,3,3
+157,No Ritmo do Coração (CODA),Sian Heder,Drama,Premiados,18,3,5
+158,Batman Begins,Christopher Nolan,Ação,Favoritos,12,3,4
+159,A Chegada,Denis Villeneuve,Ficção Científica,Cult,15,3,4
+160,Kung Fu Panda 4,Mike Mitchell,Animação,Lançamento,22,2,6
+161,O Jogo da Imitação,Morten Tyldum,Biografia,Premiados,15,3,4
+162,O Profissional,Luc Besson,Policial,Clássico,12,5,3
+163,Extraordinário,Stephen Chbosky,Drama,Favoritos,12,3,3
+164,A Freira 2,Michael Chaves,Terror,Lançamento,22,2,6
+165,Zootopia 2,Byron Howard,Animação,Lançamento,25,2,7
+166,A Origem,Christopher Nolan,Ficção Científica,Clássico,15,3,4
+167,O Irlandês,Martin Scorsese,Policial,Premiados,18,2,6
+168,Questão de Tempo,Richard Curtis,Romance,Favoritos,12,3,3
+169,Minha Mãe é uma Peça,André Pellenz,Comédia,Nacional,12,5,3
+170,Guerra Civil,Alex Garland,Ação,Lançamento,25,2,7
+171,Divertida Mente,Pete Docter,Animação,Infantil,12,3,3
+172,O Lado Bom da Vida,David O. Russell,Comédia Romântica,Favoritos,15,3,4
+173,Invocação do Mal,James Wan,Terror,Favoritos,15,3,4
+174,12 Anos de Escravidão,Steve McQueen,Drama,Premiados,15,3,4
+175,Meu Malvado Favorito 4,Chris Renaud,Animação,Lançamento,25,2,7
+176,O Sexto Sentido,M. Night Shyamalan,Suspense,Clássico,12,3,4
+177,A Forma da Água,Guillermo del Toro,Fantasia,Premiados,15,3,4
+178,Orgulho e Preconceito,Joe Wright,Romance,Clássico,10,5,3
+179,Garotos de Aluguel,Gus Van Sant,Drama,Cult,15,3,4
+180,Kingdom of the Planet of the Apes,Wes Ball,Ficção Científica,Lançamento,22,2,6
+181,Como Treinar o Seu Dragão 3,Dean DeBlois,Animação,Infantil,15,3,3
+182,Estrelas Além do Tempo,Theodore Melfi,Biografia,Favoritos,15,3,4
+183,Parasita,Bong Joon-ho,Suspense,Premiados,18,3,5
+184,Sociedade da Justiça,Jeff Wamester,Animação,Favoritos,12,3,3
+185,Saltburn,Emerald Fennell,Suspense,Cult,20,2,6
+186,O Senhor dos Anéis: A Sociedade do Anel,Peter Jackson,Fantasia,Clássico,12,5,4
+187,O Senhor dos Anéis: As Duas Torres,Peter Jackson,Fantasia,Clássico,12,5,4
+188,O Senhor dos Anéis: O Retorno do Rei,Peter Jackson,Fantasia,Clássico,12,5,4
+189,Harry Potter e a Pedra Filosofal,Chris Columbus,Fantasia,Clássico,10,5,3
+190,Furiosa: A Mad Max Saga,George Miller,Ação,Lançamento,25,2,7
+191,O Primeiro Homem,Damien Chazelle,Biografia,Favoritos,15,3,4
+192,Mogli: O Menino Lobo,Jon Favreau,Aventura,Infantil,10,5,2
+193,Longlegs,Osgood Perkins,Terror,Lançamento,25,2,7
+194,Challengers (Rivais),Luca Guadagnino,Drama,Lançamento,22,2,6
+195,E Tudo o Vento Levou,Victor Fleming,Romance,Clássico,10,7,2
+196,Carandiru,Hector Babenco,Policial,Nacional,12,3,4
+197,Interestelar,Christopher Nolan,Ficção Científica,Favoritos,18,3,5
+198,O Menino do Pijama Listrado,Mark Herman,Drama,Favoritos,12,3,4
+199,Pânico,Wes Craven,Terror,Clássico,10,5,3
+200,O Rei Leão (Live Action),Jon Favreau,Aventura,Blockbuster,20,2,5
