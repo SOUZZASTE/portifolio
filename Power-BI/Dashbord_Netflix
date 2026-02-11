@@ -1,12 +1,9 @@
-# 🎬 Netflix Data Analysis: Segmentação e Estratégia de CRM
+Análise Exploratória: Netflix
 
-Este projeto apresenta uma análise exploratória do catálogo global da Netflix, transformando dados brutos em informações estruturadas para apoiar o desenho de campanhas de engajamento e retenção.
+* Tecnologias: Python (Pandas) para ETL e Power BI para visualização.
+* Data Prep: Realizei a conversão de tipos, tratamento de dados ausentes e manipulação de strings para extrair os Top 10 gêneros.
+* Análise Visual: Construí indicadores de volume total (7.789 títulos), distribuição geográfica e evolução do catálogo por segmento (Movie vs. TV Show).
+* Impacto: Transformação de dados complexos em informações estruturadas sobre tendências globais de conteúdo.
 
-### 🔗 Link do Dashboard Interativo:
-[**CLIQUE AQUI PARA ACESSAR O DASHBOARD**]
-(https://app.powerbi.com/view?r=eyJrIjoiMTU3NDIxZTMtZDVmNy00MGMzLWJhNzUtOTdiOTQwM2ZiZThhIiwidCI6IjE4MmI5ZWJmLWE1YTItNDdmYS05NWFkLTc3MTAyNTVkZjhmZiJ9)
 
----
-
-## 🎯 Objetivo do Projeto
-Identificar padrões de conteúdo e consumo por região para servir de base no planejamento de **jornadas personalizadas** de usuários.
+🔗 Link para o projeto: [https://app.powerbi.com/view?r=eyJrIjoiMTU3NDIxZTMtZDVmNy00MGMzLWJhNzUtOTdiOTQwM2ZiZThhIiwidCI6IjE4MmI5ZWJmLWE1YTItNDdmYS05NWFkLTc3MTAyNTVkZjhmZiJ9]
