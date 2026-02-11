@@ -1,9 +1,0 @@
-MasterCine: Dashboard de Gestão de Locações
-
-* Tecnologias: SQL (MySQL) e Power BI.
-
-* O que fiz: Estruturei toda a modelagem de dados e criei queries para integrar o banco de dados ao Power BI.
-* Indicadores (KPIs): Faturamento, controle de estoque e análise de inadimplência.
-* Objetivo: Garantir a integridade das informações e oferecer uma interface visual para acompanhamento de resultados em tempo real.
-
-🔗 Confira o projeto interativo: [https://app.powerbi.com/view?r=eyJrIjoiOWJmMGZjN2YtZjZmMC00OWVhLWE2NzMtYTQ1NDgyN2ZiYzhlIiwidCI6IjE4MmI5ZWJmLWE1YTItNDdmYS05NWFkLTc3MTAyNTVkZjhmZiJ9]
